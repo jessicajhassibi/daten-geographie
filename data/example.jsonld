@@ -1,0 +1,121 @@
+[[{
+  "@id" : "https://d-nb.info/gnd/4023996-2",
+  "@type" : [ "https://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit" ],
+  "http://www.opengis.net/ont/geosparql#hasGeometry" : [ {
+    "@id" : "_:node1e1hlh893x16443634"
+  } ],
+  "http://www.w3.org/2002/07/owl#sameAs" : [ {
+    "@id" : "http://viaf.org/viaf/123277600"
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q2966"
+  }, {
+    "@id" : "https://d-nb.info/gnd/18834-7"
+  }, {
+    "@id" : "http://sws.geonames.org/2907911"
+  } ],
+  "http://www.w3.org/2007/05/powder-s#describedby" : [ {
+    "@id" : "https://d-nb.info/gnd/4023996-2/about"
+  } ],
+  "http://xmlns.com/foaf/0.1/page" : [ {
+    "@id" : "https://de.wikipedia.org/wiki/Heidelberg_%28Adelsgeschlecht%29"
+  } ],
+  "https://d-nb.info/standards/elementset/dnb#deprecatedUri" : [ {
+    "@value" : "https://d-nb.info/gnd/18834-7"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#biographicalOrHistoricalInformation" : [ {
+    "@language" : "de",
+    "@value" : "Stadt am Neckar, Regierungsbezirk Karlsruhe, 1196 urkundl. erwähnt"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#geographicAreaCode" : [ {
+    "@id" : "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE-BW"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#gndIdentifier" : [ {
+    "@value" : "4023996-2"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#homepage" : [ {
+    "@id" : "https://www.heidelberg.de/hd,Lde/HD.html"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#oldAuthorityNumber" : [ {
+    "@value" : "(DE-588)18834-7"
+  }, {
+    "@value" : "(DE-588b)18834-7"
+  }, {
+    "@value" : "(DE-588c)4023996-2"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#preferredNameForThePlaceOrGeographicName" : [ {
+    "@value" : "Heidelberg"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#relatedDdcWithDegreeOfDeterminacy4" : [ {
+    "@id" : "http://dewey.info/class/2--4346454/"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#variantNameForThePlaceOrGeographicName" : [ {
+    "@value" : "Hāydalbīrġ"
+  }, {
+    "@value" : "Stadt Heidelberg"
+  }, {
+    "@value" : "Mons Myrtorum"
+  }, {
+    "@value" : "Myrtilletum"
+  }, {
+    "@value" : "Heydelberg"
+  }, {
+    "@value" : "Haidelberg"
+  }, {
+    "@value" : "Heidelberga"
+  }, {
+    "@value" : "Myrtillorum mons"
+  }, {
+    "@value" : "UNESCO City of Literatur Heidelberg"
+  } ]
+}, {
+  "@id" : "https://d-nb.info/gnd/4008715-3",
+  "@type" : [ "https://d-nb.info/standards/elementset/gnd#TerritorialCorporateBodyOrAdministrativeUnit" ],
+  "http://www.opengis.net/ont/geosparql#hasGeometry" : [ {
+    "@id" : "_:node1e1hlh893x16442954"
+  } ],
+  "http://www.w3.org/2002/07/owl#sameAs" : [ {
+    "@id" : "http://viaf.org/viaf/153614273"
+  }, {
+    "@id" : "http://www.wikidata.org/entity/Q157035"
+  }, {
+    "@id" : "http://id.loc.gov/rwo/agents/n81054173"
+  }, {
+    "@id" : "https://d-nb.info/gnd/2006114-6"
+  }, {
+    "@id" : "http://sws.geonames.org/2942159"
+  } ],
+  "http://www.w3.org/2007/05/powder-s#describedby" : [ {
+    "@id" : "https://d-nb.info/gnd/4008715-3/about"
+  } ],
+  "http://xmlns.com/foaf/0.1/page" : [ {
+    "@id" : "https://de.wikipedia.org/wiki/B%C3%BCckeburg"
+  } ],
+  "https://d-nb.info/standards/elementset/dnb#deprecatedUri" : [ {
+    "@value" : "https://d-nb.info/gnd/2006114-6"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#biographicalOrHistoricalInformation" : [ {
+    "@language" : "de",
+    "@value" : "Stadt (seit 1609) im Landkreis Schaumburg, um eine 1304 urkundl. erwähnte Wasserburg entstanden, 1365 Fleckenrecht"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#geographicAreaCode" : [ {
+    "@id" : "https://d-nb.info/standards/vocab/gnd/geographic-area-code#XA-DE-NI"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#gndIdentifier" : [ {
+    "@value" : "4008715-3"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#oldAuthorityNumber" : [ {
+    "@value" : "(DE-588)2006114-6"
+  }, {
+    "@value" : "(DE-588b)2006114-6"
+  }, {
+    "@value" : "(DE-588c)4008715-3"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#preferredNameForThePlaceOrGeographicName" : [ {
+    "@value" : "Bückeburg"
+  } ],
+  "https://d-nb.info/standards/elementset/gnd#variantNameForThePlaceOrGeographicName" : [ {
+    "@value" : "Stadt Bückeburg"
+  }, {
+    "@value" : "Buckebourg"
+  } ]
+}]]

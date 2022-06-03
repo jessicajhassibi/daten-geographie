@@ -1,0 +1,969 @@
+KV-ORT-ID,KV-ORT-Name,KV-ORT-GeltungszeitraumAnfang-laut-PQU,KV-ORT-GeltungszeitraumAnfang-EDV,KV-ORT-GeltungszeitraumEnde-laut-PQU,KV-ORT-GeltungszeitraumEnde-EDV,KV-ORT-GND-ID,KV-ORT-VIAF-ID,KV-ORT-ExterneID,KV-ORT-GeodatenLaengengrad,KV-ORT-GeodatenBreite,KV-ORT-NameRegion,KV-ORT-NameLand,KV-ORT-Quelle-KV-PQU,KV-ORT-Bemerkung,KV-ORT-zuletzt_bearbeitet-AUTO
+0,keine Angabe,,,,,,,,,,,,,,2019-06-03T15:32:39
+3,Kiel,0,,0,,,,,,,Schleswig-Holstein,Deutschland,,,2017-06-20T14:55:49
+4,Hamburg,0,,0,,,,,,,,Deutschland,,,2017-06-20T14:55:49
+5,Berlin Ost,0,,0,,,,,,,Brandenburg,Deutschland,,,2017-08-30T14:51:33
+6,Berlin West,0,,0,,,,,,,Brandenburg,Deutschland,,,2017-06-20T14:55:49
+7,Göttingen,0,,0,,,,,,,,Deutschland,,,2017-06-20T14:55:49
+8,Halle an der Saale,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+9,Leipzig,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+10,Bonn,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+11,Köln,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+12,Frankfurt am Main,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+13,Mainz,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+14,Mannheim,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+15,Würzburg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+16,Straßburg,0,,0,,4057878-1,,,,,Elsass,Deutschland,,,2017-06-20T14:55:49
+18,Dresden,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+19,Heidelberg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+20,Darmstadt,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+21,München,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+22,Freiburg im Breisgau,0,,0,,,,,,,,Deutschland,,,2017-10-30T12:20:32
+23,Basel,0,,0,,,,,,,,Schweiz,,,2017-06-20T14:55:49
+24,Bern,0,,0,,,,,,,,Schweiz,,,2017-06-20T14:55:49
+25,Zürich,0,,0,,,,,,,,Schweiz,,,2017-06-20T14:55:49
+26,Innsbruck,0,,0,,,,,,,,Österreich,,,2017-06-20T14:55:49
+27,Wien,0,,0,,,,,,,,Österreich,,,2017-06-20T14:55:49
+28,Prag,0,,0,,4076310-9,,,,,Böhmen,Österreich-Ungarn,,,2017-06-20T14:55:49
+31,Berlin,0,,0,,,,,,,Brandenburg,Deutschland,,,2017-06-20T14:55:49
+32,Bückeburg,0,,0,,,,,,,Schaumburg-Lippe,Deutschland,,,2017-06-20T14:55:49
+33,Leipzig/ Winterthur,0,,0,,,,,,,Sachsen/ Winterthur,Deutschland/ Schweiz,,,2017-06-20T14:55:49
+34,Münster,0,,0,,,,,,,Westfalen,Deutschland,,,2017-06-20T14:55:49
+35,Marburg,0,,0,,,,,,,Mittelhessen,Deutschland,,,2017-06-20T14:55:49
+36,Augsburg,0,,0,,,,,,,Schwaben,Deutschland,,,2017-06-20T14:55:49
+37,Kassel,0,,0,,,,,,,Nordhessen,Deutschland,,,2017-06-20T14:55:49
+38,Tübingen,0,,0,,,,,,,Schwaben,Deutschland,,,2017-06-20T14:55:49
+39,Weimar,0,,0,,,,,,,Thüringen,Deutschland,,,2017-06-20T14:55:49
+40,Erlangen,0,,0,,,,,,,,Deutschland,,,2017-06-20T14:55:49
+41,Gießen,0,,0,,,,,,,,Deutschland,,,2017-06-20T14:55:49
+42,Rom,0,,0,,,,,,,,Italien,,,2017-06-20T14:55:49
+43,Graz,0,,0,,,,,,,,Österreich,,,2017-06-20T14:55:49
+44,Karlsruhe,0,,0,,,,,,,,Deutschland,,,2017-06-20T14:55:49
+45,Brüssel,0,,0,,,,,,,,Belgien,,,2017-06-20T14:55:49
+46,Newport,0,,0,,,,,,,Isle of Wight,Großbritannien,,,2017-06-20T14:55:49
+47,Midhurst,0,,0,,,,,,,,Großbritannien,,,2017-06-20T14:55:49
+48,Budapest,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+49,Nijkerk,0,,0,,,,,,,Gelderland,,,,2017-06-20T14:55:49
+50,Amsterdam,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+51,Emleben,0,,0,,,,,,,Landkreis Gotha,,,,2017-06-20T14:55:49
+52,Schlüchtern,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+53,Luserna San Giovanni,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+54,Shanghai,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+55,Rock Rapids,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+56,Skaneateles,0,,0,,,,,,,New York,,,,2017-06-20T14:55:49
+57,Itzehoe,0,,0,,,,,,,Holstein,,,,2017-06-20T14:55:49
+58,Lakeville,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+59,Kopenhagen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+60,Östersund,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+61,Uppsala,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+62,Manchester,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+63,Šupljaja,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+64,Cuxhaven,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+65,Köslin,0,,0,,,,,,,Pomerania,Polen,,,2017-06-20T14:55:49
+66,London,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+67,"Headly, Hants.",0,,0,,,,,,,,,,,2017-06-20T14:55:49
+68,Kronstadt,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+69,Ottobeuren,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+70,Perpignan,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+71,Fort Collins,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+72,Garmisch-Partenkirchen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+73,Solingen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+74,Hagen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+75,Flensburg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+76,Neumünster,0,,0,,,,,,,Holstein,,,,2017-06-20T14:55:49
+77,Wiesbaden,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+78,Baden-Baden,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+79,Königsberg,0,,0,,,,,,,,Preußen,,,2017-06-20T14:55:49
+80,Hagenau,0,,0,,,,,,,Elsass,Frankreich,,,2017-06-20T14:55:49
+81,Split,0,,0,,,,,,,,Kroatien,,,2017-09-13T13:56:39
+82,Jena,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+83,Bologna,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+84,Brünn,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+85,Aachen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+86,Allenstein,0,,0,,,,,,,Ostpreußen,,,,2017-06-20T14:55:49
+87,Altona,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+88,Athen,0,,0,,,,,,,,Griechenland,,,2017-06-20T14:55:49
+90,Bad Hersfeld,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+91,Bamberg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+93,Beeskow,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+94,Belgrad,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+95,Bielefeld,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+96,Bielitz,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+97,Bochum,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+98,Braunschweig,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+99,Breslau,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+100,Celle,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+101,Chernigov,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+102,Chur,0,,0,,,,,,,Graubünden,Schweiz,,,2017-06-20T14:55:49
+103,Coburg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+104,Colmar,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+105,Dortmund-Hörde,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+106,Eibenschütz,0,,0,,,,,,,Mähren,,,,2017-06-20T14:55:49
+107,Eisleben,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+108,Essen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+110,Freising,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+111,Freistatt,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+112,Gelsenkirchen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+113,Gerlachsheim,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+114,Gniebel,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+115,Groß-Mehlra bei Sondershausen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+116,Günzlhofen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+117,Hannover,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+118,Heilbronn,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+119,Hildesheim,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+120,Iserlohn,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+121,Kairo,0,,0,,,,,,,,Ägypten,,,2017-06-20T14:55:49
+122,Kattowitz,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+123,Kittsee bei Pressburg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+124,Kolozsvár,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+125,Krotoschin bei Posen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+126,Lachen,0,,0,,,,,,,Schwyz,Schweiz,,,2017-06-20T14:55:49
+127,Lämmerspiel,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+128,Le Sablon bei Metz,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+129,"Lübtheen, Ludwigslust-Parchim",0,,0,,,,,,,,,,,2017-06-20T14:55:49
+130,Ludwigshafen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+131,Marbach am Neckar,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+132,Mauth,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+133,Meeder bei Coburg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+134,Menden,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+135,Moers,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+136,Moskau,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+137,Northeim,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+138,Olbernhau,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+139,Ortelsburg,0,,0,,,,,,,Ostpreußen,,,,2017-06-20T14:55:49
+140,Paderborn,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+141,Paris,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+142,Pleschen bei Posen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+143,Potsdam,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+144,Pyritz,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+145,Radolfzell,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+146,Regensburg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+147,Reichensachsen bei Kassel,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+148,Rosenberg,0,,0,,,,,,,,Ungarn,,,2017-06-20T14:55:49
+149,Rüdinghausen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+150,Sangerhausen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+151,Schneeberg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+152,Schwarzenbach am Wald,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+153,Speyer,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+154,St. Gallen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+155,Steglitz Berlin,0,,0,,,,,,,,,,,2017-09-12T18:55:36
+156,Strehla,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+157,Stuttgart,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+158,Thun,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+159,Vorchdorf,0,,0,,,,,,,Oberösterreich,Österreich,,,2017-06-20T14:55:49
+160,Wechold,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+161,Wiesentheid,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+162,Wildeshausen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+163,Wipperfürth,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+164,Wolfhalden,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+165,Zörbig,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+166,Zwickau,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+167,Anwil,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+168,Bad Neuenahr,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+169,Bad Oeynhausen,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+170,Baden bei Wien,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+172,Bensberg,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+173,Cambridge,0,,0,,,,,,,,Großbritannien,,,2017-06-20T14:55:49
+175,Cotta,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+176,Eckernförde,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+177,Frèconrupt,0,,0,,,,,,,,Frankreich,,,2017-06-20T14:55:49
+178,Igls,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+179,Marquartstein,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+180,New York,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+181,Overath,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+182,Princeton,0,,0,,,,,,,New Jersey,USA,,,2017-06-20T14:55:49
+183,Reuditz,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+184,Samedan,0,,0,,,,,,,Oberengadin,Schweiz,,,2017-06-20T14:55:49
+185,Schleswig,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+186,Schöndorf am Ammersee,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+187,Sonnenstein bei Pirna,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+188,Spéracèdes,0,,0,,,,,,,,Frankreich,,,2017-06-20T14:55:49
+189,Tel Aviv,0,,0,,,,,,,,Israel,,,2017-06-20T14:55:49
+190,Templin,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+191,Tutzing,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+192,Vevey,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+193,Woronesch,0,,0,,,,,,,,Russland,,,2017-06-20T14:55:49
+194,ohne Ort,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+195,Laaber,0,,0,,,,,,,,,,,2017-06-20T14:55:49
+197,Bad Aibling,,,,,,,,,,,,,,2017-09-12T18:55:36
+198,Bad Königshofen i. Grabfeld,,,,,,,,,,,,,,2017-09-12T18:55:36
+199,Bad Schmiedeberg- Pretzsch Elbe,,,,,,,,,,,,,,2017-09-12T18:55:36
+200,Balingen,,,,,,,,,,,,,,2017-09-12T18:55:36
+201,Balta,,,,,,,,,,,,,,2017-09-12T18:55:36
+202,Bärenstein,,,,,,,,,,,,,,2017-09-12T18:55:36
+203,Bensheim,,,,,,,,,,,,,,2017-09-12T18:55:36
+204,Berdjansk,,,,,,,,,,,,,,2017-09-12T18:55:36
+205,Bloomington,,,,,,,,,,Illinois,USA,,,2017-09-13T14:14:07
+206,Bloomington,,,,,,,,,,Indiana,USA,,,2017-09-13T14:13:50
+207,Bräunlingen,,,,,,,,,,,,,,2017-09-12T18:55:36
+208,Burlington,,,,,,,,,,,,,,2017-09-12T18:55:36
+209,Bydgoszcz,,,,,,,,,,,,,,2017-09-12T18:55:36
+210,Chicago,,,,,,,,,,,,,,2017-09-12T18:55:36
+211,Clausnitz,,,,,,,,,,,,,,2017-09-12T18:55:36
+212,Crete,,,,,,,,,,,,,,2017-09-12T18:55:36
+213,Danzig,,,,,,,,,,,,,,2017-09-12T18:55:36
+214,Dorpat (estn. Tartu),,,,,,,,,,Kreis Tartu,Estland,,,2017-10-30T12:15:05
+215,Dortmund,,,,,,,,,,,,,,2017-09-12T18:55:36
+216,Düren,,,,,,,,,,,,,,2017-09-12T18:55:36
+217,Düsseldorf,,,,,,,,,,,,,,2017-09-12T18:55:36
+218,Edinburgh,,,,,,,,,,,,,,2017-09-12T18:55:36
+219,Eisenach,,,,,,,,,,,,,,2017-09-12T18:55:36
+220,Elbing,,,,,,,,,,,,,,2017-09-12T18:55:36
+221,Endenich,,,,,,,,,,,,,,2017-09-12T18:55:36
+222,Erfurt,,,,,,,,,,,,,,2017-09-12T18:55:36
+223,Falkenau an der Eger,,,,,,,,,,,,,,2017-09-12T18:55:36
+224,Frymburg,,,,,,,,,,,,,,2017-09-12T18:55:36
+225,Fürstenberg,,,,,,,,,,,,,,2017-09-12T18:55:36
+226,Fürstenfeldbruck,,,,,,,,,,,,,,2017-09-12T18:55:36
+227,Gablonz,,,,,,,,,,,,,,2017-09-12T18:55:36
+228,Genf,,,,,,,,,,,,,,2017-09-12T18:55:36
+229,Gleiwitz,,,,,,,,,,,,,,2017-09-12T18:55:36
+230,Gmünden,,,,,,,,,,,,,,2017-09-12T18:55:36
+231,Görlitz,,,,,,,,,,,,,,2017-09-12T18:55:36
+232,Gotha,,,,,,,,,,,,,,2017-09-12T18:55:36
+233,Großenbehringen,,,,,,,,,,,,,,2017-09-12T18:55:36
+234,Großleesen,,,,,,,,,,,,,,2017-09-12T18:55:36
+235,Großschönau,,,,,,,,,,,,,,2017-09-12T18:55:36
+236,Grünberg in Schlesien,,,,,,,,,,,,,,2017-09-12T18:55:36
+237,Gschwend,,,,,,,,,,,,,,2017-09-12T18:55:36
+238,Hameln,,,,,,,,,,,,,,2017-09-12T18:55:36
+239,Herrsching a. Ammersee,,,,,,,,,,,,,,2017-09-12T18:55:36
+240,Hohenelbe,,,,,,,,,,,,,,2017-09-12T18:55:36
+241,Hohnstein,,,,,,,,,,,,,,2017-09-12T18:55:36
+242,Hornberg,,,,,,,,,,,,,,2017-09-12T18:55:36
+243,Ingolstadt,,,,,,,,,,,,,,2017-09-12T18:55:36
+244,Irdning,,,,,,,,,,,,,,2017-09-12T18:55:36
+245,Jesenik,,,,,,,,,,,,,,2017-09-12T18:55:36
+246,Jungbunzlau,,,,,,,,,,,,,,2017-09-12T18:55:36
+247,Koscierzyna,,,,,,,,,,,,,,2017-09-12T18:55:36
+248,Konstanz,,,,,,,,,,,,,,2017-09-12T18:55:36
+249,Kosmanos,,,,,,,,,,,,,,2017-09-12T18:55:36
+250,Lahr/Schwarzwald,,,,,,,,,,,,,,2017-09-12T18:55:36
+251,Linz,,,,,,,,,,,,,,2017-09-12T18:55:36
+252,Loschwitz,,,,,,,,,,,,,,2017-09-12T18:55:36
+253,Lübeck,,,,,,,,,,,,,,2017-09-12T18:55:36
+254,Lüdenscheid,,,,,,,,,,,,,,2017-09-12T18:55:36
+256,Lundenburg,,,,,,,,,,,,,,2017-09-12T18:55:36
+257,Lüneburg,,,,,,,,,,,,,,2017-09-12T18:55:36
+258,Lützen-Röcken,,,,,,,,,,,,,,2017-09-12T18:55:36
+259,Magdeburg,,,,,,,,,,,,,,2017-09-12T18:55:36
+260,Melk,,,,,,,,,,,,,,2017-09-12T18:55:36
+261,Mödling,,,,,,,,,,,,,,2017-09-12T18:55:36
+262,Montclair,,,,,,,,,,,,,,2017-09-12T18:55:36
+263,Montreaux,,,,,,,,,,,,,,2017-09-12T18:55:36
+264,Neuburg an der Donau,,,,,,,,,,,,,,2017-09-12T18:55:36
+265,Nordhausen,,,,,,,,,,,,,,2017-09-12T18:55:36
+266,Norwich,,,,,,,,,,,,,,2017-09-12T18:55:36
+267,Oberlichtenau,,,,,,,,,,,,,,2017-09-12T18:55:36
+268,Obernkirchen,,,,,,,,,,,,,,2017-09-12T18:55:36
+269,Oxford,,,,,,,,,,,,,,2017-09-12T18:55:36
+270,Possendorf,,,,,,,,,,,,,,2017-09-12T18:55:36
+271,Roznava,,,,,,,,,,,,,,2017-09-12T18:55:36
+272,Sächsisch-Reen,,,,,,,,,,,,,,2017-09-12T18:55:36
+273,Salzburg,,,,,,,,,,,,,,2017-09-12T18:55:36
+274,Santa Monica,,,,,,,,,,,,,,2017-09-12T18:55:36
+276,Schwiegershausen,,,,,,,,,,,,,,2017-09-12T18:55:36
+277,Seibersbach,,,,,,,,,,,,,,2017-09-12T18:55:36
+278,Sevelen,,,,,,,,,,,,,,2017-09-12T18:55:36
+279,Sorau,,,,,,,,,,,,,,2017-09-12T18:55:36
+280,Stadthagen,,,,,,,,,,,,,,2017-09-12T18:55:36
+281,Staßfurt,,,,,,,,,,,,,,2017-09-12T18:55:36
+282,Stavenhagen,,,,,,,,,,,,,,2017-09-12T18:55:36
+283,Stolp,,,,,,,,,,,,,,2017-09-12T18:55:36
+284,Tauberbischofsheim,,,,,,,,,,,,,,2017-09-12T18:55:36
+285,Theresienstadt,,,,,,,,,,,,,,2017-09-12T18:55:36
+286,Trhové Sviny,,,,,,,,,,,,,,2017-09-12T18:55:36
+287,Užice,,,,,,,,,,,,,,2017-09-12T18:55:36
+288,Venedig,,,,,,,,,,,,,,2017-09-12T18:55:36
+289,Waldbröl/Siegerland,,,,,,,,,,,,,,2017-09-12T18:55:36
+290,Waldthurn,,,,,,,,,,,,,,2017-09-12T18:55:36
+291,Warschau,,,,,,,,,,,,,,2017-10-30T12:46:12
+293,Weißenhorn,,,,,,,,,,,,,,2017-09-12T18:55:36
+294,Wesermünde,,,,,,,,,,,,,,2017-09-12T18:55:36
+295,Wetzikon,,,,,,,,,,,,,,2017-09-12T18:55:36
+296,Wilmersdorf,,,,,,,,,,,,,,2017-09-12T18:55:36
+297,Winterthur,,,,,,,,,,,,,,2017-09-12T18:55:36
+298,Wismar,,,,,,,,,,,,,,2017-09-12T18:55:36
+299,Worms,,,,,,,,,,,,,,2017-09-12T18:55:36
+300,Hilgermissen,,,,,,,,,,,,,,2017-09-12T18:55:36
+301,Arnstadt,,,,,,,,,,,,,,2017-09-12T18:55:36
+302,Bremen,,,,,,,,,,,,,,2017-09-13T11:34:13
+303,Holstre,,,,,,,,,,Viljandimaa,Estland,,,2017-09-13T11:38:05
+304,Stockholm,,,,,,,,,,,Schweden,,,2017-09-13T11:40:27
+305,Pförten,,,,,,,,,,Niederlausitz,Preußen,,,2017-09-13T11:55:46
+306,Brande,,,,,,,,,,Jütland,Dänemark,,,2017-09-13T12:01:45
+307,Saloniki,,,,,,,,,,,Griechenland,,,2017-09-13T12:03:26
+308,Salt Lake City,,,,,,,,,,Utah,USA,,,2017-09-13T12:03:52
+309,Bauerwitz,,,,,,,,,,Oberschlesien,Preußen,,,2017-09-13T12:07:54
+310,Red Oak,,,,,,,,,,Iowa,USA,,,2017-09-13T12:12:10
+311,Florenz,,,,,,,,,,,Italien,,,2017-09-13T12:13:38
+312,Bindersleben (bei Erfurt),,,,,,,,,,Thüringen,Deutschland,,,2017-09-13T12:18:47
+313,Klobenstein (ital. Collalbo),,,,,,,,,,Südtirol,Italien,,,2017-09-13T12:21:02
+314,Mühlhausen,,,,,,,,,,Thüringen,Deutschland,,,2017-09-13T12:38:38
+315,Kiew,,,,,,,,,,,Ukraine,,,2017-09-13T12:42:36
+316,Klausenburg (rum. Cluj),,,,,,,,,,,Rumänien,,,2017-09-13T12:46:12
+317,Steinamanger (ung. Szombathely),,,,,,,,,,,Ungarn,,,2017-09-13T12:50:36
+318,Saint-Germain-en-Laye,,,,,,,,,,,Frankreich,,,2017-09-13T13:05:41
+319,Philadelphia,,,,,,,,,,Pennsylvania,USA,,,2017-09-13T13:08:09
+320,Newton,,,,,,,,,,Pennsylvania,USA,,,2017-09-13T13:08:49
+321,Klosterneuburg,,,,,,,,,,,Österreich,,,2017-09-13T13:11:19
+322,Leningrad (heute: Sankt Petersburg),,,,,,,,,,,Russland,,,2017-09-13T13:15:23
+323,Ilimbav,,,,,,,,,,Sibiu,Rumänien,,,2017-09-13T13:18:47
+324,Bukarest,,,,,,,,,,,Rumänien,,,2017-09-13T13:19:45
+325,Pisa,,,,,,,,,,,Italien,,,2017-09-13T13:23:04
+326,Pittsburgh,,,,,,,,,,Pennsylvania,USA,,,2017-09-13T13:25:25
+327,Wolfenbüttel,,,,,,,,,,Niedersachsen,Deutschland,,,2017-09-13T13:28:22
+328,Kaunas,,,,,,,,,,,Litauen,,,2017-09-13T13:29:43
+329,Ort in Ghana,,,,,,,,,,,Ghana,,,2017-09-13T13:41:55
+330,Neuß,,,,,,,,,,Niederrhein,Deutschland,,,2017-09-13T13:49:12
+331,Vårdö,,,,,,,,,,Åland,Finnland,,,2017-09-13T13:53:30
+332,Turku,,,,,,,,,,,Finnland,,,2017-09-13T13:54:20
+333,Zagreb,,,,,,,,,,,Kroatien,,,2017-09-13T13:56:18
+334,Gadderbaum/Bielefeld,,,,,,,,,,,Deutschland,,,2017-09-13T13:58:32
+335,Maspujols,,,,,,,,,,Tarragona,Spanien,,,2017-09-13T14:01:50
+336,Dolyna,,,,,,,,,,,Ukraine,,,2017-09-13T14:07:26
+337,Ort in den Niederlanden,,,,,,,,,,,Niederlande,,,2017-09-13T14:07:42
+338,Konitz,,,,,,,,,,,Preußen,,,2017-09-13T14:13:31
+339,Halle,,,,,,,,,,,,,,2017-09-13T14:16:41
+340,Schwäbisch-Hall,,,,,,,,,,,,,,2017-09-13T14:16:54
+341,Nyon,,,,,,,,,,Kanton Waadt,Schweiz,,,2017-09-13T14:17:38
+342,Boston,,,,,,,,,Massachussetts,USA,,,,2017-09-13T14:19:06
+343,Sankt Petersburg,,,,,,,,,,,Russland,,,2017-09-13T14:28:01
+344,Karakas bei Simferopol,,,,,,,,,,Halbinsel Krim,,,,2017-09-13T14:30:17
+345,Sheffield,,,,,,,,,,,England,,,2017-09-13T14:35:08
+346,Riga,,,,,,,,,,,Lettland,,,2017-09-13T14:38:06
+347,Correggio,,,,,,,,,,Provinz Reggio Emilia,Italien,,,2017-09-13T14:40:45
+348,Artanudschi,,,,,,,,,,,Georgien,,,2017-09-13T14:41:47
+349,Tiflis (ge: Tbilissi),,,,,,,,,,,Georgien,,,2017-09-13T14:43:02
+350,Bredaryd,,,,,,,,,,,Schweden,,,2017-09-13T14:44:56
+352,Crockett,,,,,,,,,,Texas,USA,,,2017-09-13T14:46:51
+353,Kreuzlingen,,,,,,,,,,,Schweiz,,,2017-09-13T14:49:07
+354,Orselina,,,,,,,,,,Locarno,Schweiz,,,2017-09-13T14:50:08
+355,Lawton,,,,,,,,,,Oklahoma,USA,,,2017-09-13T14:51:53
+356,Ithaca,,,,,,,,,,New York,USA,,,2017-09-13T14:52:08
+357,Newcastle upon Tyne,,,,,,,,,,,England,,,2017-09-13T14:54:52
+358,Esslingen,,,,,,,,,,Baden-Württemberg,Deutschland,,,2017-10-30T12:17:58
+359,Wien/Leipzig,,,,,,,,,,,,,,2017-09-13T14:56:34
+360,Leipzig/Berlin,,,,,,,,,,,,,,2017-09-13T14:56:48
+361,Malyj Nesvetaj,,,,,,,,,,,Russland,,,2017-09-13T14:57:13
+362,Wittenberg,,,,,,,,,,,,,,2017-09-13T14:57:56
+363,Rio de Janeiro,,,,,,,,,,Rio de Janeiro,Brasilien,,,2017-09-13T14:58:43
+364,Brooklyn,,,,,,,,,,New York,USA,,,2017-09-13T15:05:26
+365,Los Angeles,,,,,,,,,,Kalifornien,USA,,,2017-09-13T15:05:49
+366,Hilversum,,,,,,,,,,Nordholland,Niederlande,,,2017-09-13T15:08:17
+367,Utrecht,,,,,,,,,,Utrecht,Niederlande,,,2017-09-13T15:10:53
+368,Den Haag,,,,,,,,,,Südholland,Niederlande,,,2017-09-13T15:11:31
+369,Palermo,,,,,,,,,,Sizilien,Italien,,,2017-09-13T15:13:51
+370,Przemyslany,,,,,,,,,,,Ukraine,,,2017-09-13T15:19:16
+371,Swider,,,,,,,,,,Woiwodschaft Lublin,Polen,,,2017-09-13T15:18:28
+372,Siena,,,,,,,,,,Toskana,Italien,,,2017-09-13T15:20:46
+373,Mailand,,,,,,,,,,Lombardei,Italien,,,2017-09-13T15:21:10
+374,Chambersburg,,,,,,,,,,Pennsylvania,USA,,,2017-09-13T15:22:56
+375,Homestead,,,,,,,,,,Pennsylvania,USA,,,2017-09-13T15:23:15
+376,Bergamo,,,,,,,,,,"Lombardei, Provinz Bergamo",Italien,,,2017-09-13T15:25:25
+377,Padua,,,,,,,,,,"Venetien, Provinz Padua",Italien,,,2017-09-13T15:25:48
+378,Felsömindszenzt,,,,,,,,,,,Ungarn,,,2017-09-13T15:28:14
+379,Mantua,,,,,,,,,,"Lombardei, Provinz Mantua",Italien,,,2017-09-13T15:31:13
+380,Sarbice II,,,,,,,,,Woiwodschaft Kielce,Polen,,,,2017-09-13T15:33:30
+381,Lublin,,,,,,,,,Woiwodschaft Lublin,Polen,,,,2017-09-13T15:33:47
+382,Nagyszentmiklós,,,,,,,,,,Ungarn,,,,2017-09-13T15:35:40
+383,Vysoké Myto,,,,,,,,,,Hohenmauth,Ostböhmen,,,2017-09-13T15:38:59
+384,Tarnopol (heute: Ternopil'),,,,,,,,,,,Ukraine,,,2017-09-13T15:42:28
+385,Lemberg (ukr. Lviv),,,,,,,,,,Oblast Lwiw,Ukraine,,,2017-09-18T13:20:27
+386,Città della Pieve,,,,,,,,,,"Umbrien, Provinz Perugia",Italien,,,2017-09-13T15:50:14
+387,Loreto,,,,,,,,,,Marken,Italien,,,2017-09-13T15:50:26
+388,Turin,,,,,,,,,,Piemont,Italien,,,2017-09-13T15:52:37
+390,Altdorf,,,,,,,,,,Uri,Schweiz,,,2017-09-13T16:01:14
+391,Frankfurt an der Oder,,,,,,,,,,,Deutschland,,,2017-09-13T16:02:24
+392,Elberfeld,,,,,,,,,,Bergisches Land,Deutschland,,,2017-09-13T16:04:06
+393,Rurich,,,,,,,,,,Kreis Heinsberg,Deutschland,,,2017-09-13T16:05:27
+394,Beauvais,,,,,,,,,,Oise,Frankreich,,,2017-09-13T16:07:23
+395,Gebweiler,,,,,,,,,,Elsass,Deutsches Kaiserreich,,,2017-09-13T16:18:14
+396,Fulda,,,,,,,,,,,Deutschland,,,2017-09-13T16:23:19
+397,Uelzen,,,,,,,,,,Niedersachsen,Deutschland,,,2017-09-13T16:24:48
+398,Honolulu,,,,,,,,,,"Hawaii, Insel O'ahu",USA,,,2017-09-13T16:26:58
+399,Kielce,,,,,,,,,,,Polen,,,2017-09-13T16:29:24
+400,Riethnordhausen bei Erfurt,,,,,,,,,,Thüringen,Deutschland,,,2017-09-13T16:30:41
+401,Quedlinburg,,,,,,,,,,"Sachsen-Anhalt, Harz",Deutschland,,,2017-09-13T16:31:59
+402,Kristiansand,,,,,,,,,"Südland, Fylke Vest-Agder",Norwegen,,,,2017-09-13T16:34:31
+403,Roanne (Loire),,,,,,,,,,"Auvergne-Rhône-Alpes, Département Loire",Frankreich,,,2017-09-13T16:38:10
+404,Birmingham,,,,,,,,,,West Midlands,England,,,2017-09-13T16:39:36
+405,St. Albans,,,,,,,,,,Hertfordshire,England,,,2017-10-30T12:44:13
+406,Celje,,,,,,,,,,,Slowenien,,,2017-09-13T16:45:50
+407,Bytom,,,,,,,,,,,Polen,,,2017-09-13T16:46:33
+408,Sacramento,,,,,,,,,,Kalifornien,USA,,,2017-09-13T16:47:13
+409,Outlook,,,,,,,,,,Saskatchewan,Kanada,,,2017-09-13T16:48:06
+410,Darkehmen,,,,,,,,,,Preußen,,,,2017-09-13T16:49:37
+412,Heinrichswalde,,,,,,,,,,Ostpreußen,Preußen,,,2017-09-13T16:51:29
+413,Endingen,,,,,,,,,,"Baden-Württemberg, Landkreis Emmendingen",Deutschland,,,2017-09-13T16:52:12
+414,Erwinen,,,,,,,,,,Ostpreußen,Preußen,,,2017-09-13T16:53:54
+415,Pest (heute: Budapest),,,,,,,,,,,Ungarn,,,2017-09-13T16:56:54
+416,Letmathe,,,,,,,,,,Westfalen,Deutschland,,,2017-09-13T16:58:24
+417,Maynooth,,,,,,,,,,Co. Kildare,Irland,,,2017-09-13T16:58:58
+418,Kranj,,,,,,,,,,,Slowenien,,,2017-09-13T17:00:26
+419,Chojnice,,,,,,,,,,Woiwodschaft Pommern,Polen,,,2017-09-13T17:01:44
+420,Cleveland,,,,,,,,,,Ohio,USA,,,2017-09-13T17:03:40
+421,Ansbach,,,,,,,,,,Bayern,Deutschland,,,2017-09-13T17:05:45
+422,Dessau,,,,,,,,,,Sachsen-Anhalt,Deutschland,,,2017-09-13T17:07:15
+423,Schwedt an der Oder,,,,,,,,,,Brandenburg,Deutschland,,,2017-10-30T12:42:42
+424,Czernowitz,,,,,,,,,,Oblast Tscherniwzi,Ukraine,,,2017-09-13T17:10:11
+425,Avignon,,,,,,,,,,Provence,Frankreich,,,2017-10-18T10:40:06
+426,Ulm,,,,,,,,,,,Deutschland,,,2017-09-13T17:12:03
+427,Pullach bei München,,,,,,,,,,,Deutschland,,,2017-09-13T17:12:18
+428,Simferopol,,,,,,,,,,Halbinsel Krim,,,,2017-09-13T17:15:53
+429,Ragnit,,,,,,,,,,Ostpreußen,Preußen,,,2017-09-13T17:17:36
+430,Luzern,,,,,,,,,,Kanton Luzern,Schweiz,,,2017-09-13T17:17:54
+431,Bad Ems,,,,,,,,,,Rhein-Lahn-Kreis,Deutschland,,,2017-09-13T17:20:15
+432,Willerstedt bei Weimar,,,,,,,,,,,Deutschland,,,2017-09-13T17:21:24
+433,Bielau bei Niesse (pol. Biala Nyska),,,,,,,,,,Woiwodschaft Opole,Polen,,,2017-09-13T17:23:00
+434,Trier,,,,,,,,,,,Deutschland,,,2017-09-13T17:23:56
+435,Bausendorf,,,,,,,,,,Kreis Wittlich,Deutschland,,,2017-09-13T17:24:12
+436,Immensen,,,,,,,,,,Niedersachsen,Deutschland,,,2017-09-13T17:27:08
+437,Lobberich,,,,,,,,,,"Niederrhein, Kreis Kempen",Deutschland,,,2017-09-13T17:33:18
+438,Andernach am Rhein,,,,,,,,,,Rhein,Deutschland,,,2017-09-13T17:33:45
+439,Barga,,,,,,,,,,"Toscana, Provinz Lucca",Italien,,,2017-09-13T17:35:04
+440,Miskolc,,,,,,,,,,,Ungarn,,,2017-09-13T17:35:56
+441,Perugia,,,,,,,,,,Umbrien,Italien,,,2017-09-13T17:37:46
+442,Brufa bei Perugia,,,,,,,,,,Umbrien,Italien,,,2017-09-13T17:38:07
+443,Croydon,,,,,,,,,,Surrey,England,,,2017-09-13T17:39:20
+444,Wiesbaden/Stuttgart,,,,,,,,,,,,,,2017-09-13T17:39:54
+445,Mainz/Leipzig,,,,,,,,,,,,,,2017-09-13T17:40:10
+446,Ixelles,,,,,,,,,,Brüssel,Belgien,,,2017-09-13T17:40:11
+447,Uccle,,,,,,,,,,Brüssel,Belgien,,,2017-09-13T17:40:23
+448,Newark,,,,,,,,,,,,,,2017-09-13T17:41:18
+449,Stettin-Messenthin,,,,,,,,,,Pommern,Preußen,,,2017-09-13T17:45:27
+450,Waregem,,,,,,,,,,Flandern,Belgien,,,2017-09-13T17:46:53
+451,Shrewsbury,,,,,,,,,,West Midlands,England,,,2017-09-13T17:48:38
+452,Dieppe,,,,,,,,,,"Normandie, Département Seine-Maritime",Frankreich,,,2017-09-13T17:49:51
+453,Nantes,,,,,,,,,,"Pays de la Loire, Département Loire-Atlantique",Frankreich,,,2017-09-13T17:52:44
+454,Vernouillet (Yvelines),,,,,,,,,,"Île-de-France, Département Yvelines",Frankreich,,,2017-09-13T17:53:38
+455,Cambridge,,,,,,,,,,Massachussetts,USA,,,2017-10-30T12:12:37
+456,Dublin,,,,,,,,,,,Irland,,,2017-09-18T08:20:17
+457,Westport,,,,,,,,,,Connecticut,USA,,,2017-09-18T08:23:29
+458,Berkeley,,,,,,,,,,Kalifornien,USA,,,2017-09-18T08:23:44
+459,Binghamton,,,,,,,,,,New York,USA,,,2017-09-18T08:30:02
+460,Lissabon,,,,,,,,,,,Portugal,,,2017-09-18T08:32:09
+461,Ruse,,,,,,,,,,,Bulgarien,,,2017-09-18T08:35:27
+462,Sofia,,,,,,,,,,,Bulgarien,,,2017-09-18T08:35:37
+463,Amarastii de Jos,,,,,,,,,,Oltenien,Rumänien,,,2017-09-18T08:40:56
+464,Steinau bei Schlüchtern,,,,,,,,,,Hessen,Deutschland,,,2017-09-18T08:42:49
+465,Stolberg,,,,,,,,,,Harz,Deutschland,,,2017-09-18T08:45:18
+466,Lunéville,,,,,,,,,,Département Meurthe-et-Moselle,Frankreich,,,2017-09-18T08:48:21
+467,Sargans,,,,,,,,,,Kanton St. Gallen,Schweiz,,,2017-09-18T08:52:43
+468,Marienberg bei Boppard,,,,,,,,,,Rheinland-Pfalz,Deutschland,,,2017-09-18T08:56:19
+469,Jagielnica bei Tarnopol,,,,,,,,,,,Ukraine,,,2017-09-18T09:13:17
+470,Oporto (dt. Porto),,,,,,,,,,,Portugal,,,2017-09-18T09:15:49
+471,Greifswald,,,,,,,,,,Mecklemburg-Vorpommern,Deutschland,,,2017-09-18T09:20:09
+472,Gedern,,,,,,,,,,Hessen,Deutschland,,,2017-09-18T09:20:35
+473,Lund,,,,,,,,,,Skåne,Schweden,,,2017-09-18T09:22:49
+474,Freiburg,,,,,,,,,,Kanton Freiburg,Schweiz,,,2017-09-18T09:28:44
+475,Bloomfield,,,,,,,,,,Indiana,USA,,,2017-09-18T09:32:32
+476,Sarajevo,,,,,,,,,,,Bosnien-Herzegowina,,,2017-09-18T09:36:35
+477,Oldenburg,,,,,,,,,,Niedersachsen,Deutschland,,,2017-09-18T09:39:00
+478,Oakland,,,,,,,,,,Kalifornien,USA,,,2017-09-18T09:40:05
+479,Berneck,,,,,,,,,,Oberfranken,Deutschland,,,2017-09-18T09:42:03
+481,Jassy (rum. Iasi),,,,,,,,,,Moldau,Rumänien,,,2017-09-18T09:54:05
+482,Písek,,,,,,,,,,,Tschechoslowakei,,,2017-09-18T09:49:55
+483,Tyrnau (slk. Trnava),,,,,,,,,,Trvana,Slowakei,,,2017-09-18T09:53:11
+484,Chelsea,,,,,,,,,,London,England,,,2017-09-18T09:59:43
+485,Hammersmith,,,,,,,,,,London,England,,,2017-09-18T10:01:14
+486,Piacenza,,,,,,,,,,"Emilia-Romagna, Piacenza",Italien,,,2017-09-18T10:05:42
+487,Frýdek-Místek ,,,,,,,,,,Moravskoslezský kraj,Tschechien,,,2017-09-18T10:09:29
+488,Marseille,,,,,,,,,,"Département Bouches-du-Rhône, Provence-Alpes-Côte d'Azur",Frankreich,,,2017-09-18T10:25:25
+489,Clausthal,,,,,,,,,,"Niedersachen, Goslar",Deutschland,,,2017-09-18T10:32:17
+490,Annonay,,,,,,,,,,Ardèche,Frankreich,,,2017-09-18T10:33:40
+491,Grigny,,,,,,,,,,Seine-et-Oise,Frankreich,,,2017-09-18T10:34:07
+492,Denver,,,,,,,,,,Colorado,USA,,,2017-09-18T10:37:38
+493,Courseulles-sur-Mer,,,,,,,,,,"Département Calvados, Normandie",Frankreich,,,2017-09-18T10:43:29
+494,Solesmes,,,,,,,,,,Département Sarthe,Frankreich,,,2017-09-18T10:44:54
+495,Reggio Calabria,,,,,,,,,,Kalabrien,Italien,,,2017-09-18T10:48:59
+496,Kristiania (heute: Oslo),,,,,,,,,,Oslo,Norwegen,,,2017-09-18T10:54:03
+497,Königgrätz (tschech. Hradec Králové),,,,,,,,,,Hradec Králové ,Tschechien,,,2017-09-18T10:59:17
+498,Saratow,,,,,,,,,,Oblast Saratow,Russland,,,2017-09-18T11:02:15
+499,Cremona,,,,,,,,,,"Cremona, Lombardei",Italien,,,2017-09-18T11:12:51
+500,Sale Marasino,,,,,,,,,,"Brescia, Lombardei",Italien,,,2017-09-18T11:13:44
+501,Santo Domingo,,,,,,,,,,,Domenikanische Republik,,,2017-09-18T11:16:08
+502,Mussy-sur-Seine,,,,,,,,,,"Département Aube, Grand Est",Frankreich,,,2017-09-18T11:27:16
+503,Ort auf den Chatham-Inseln,,,,,,,,,,,Neuseeland,,,2017-09-18T11:30:36
+504,Posen (poln. Poznan),,,,,,,,,,Woiwodschaft Großpolen,Polen,,,2017-09-18T11:33:43
+505,Mülhausen (frz. Mulhouse),,,,,,,,,,"Département Haut-Rhin, Elsass, Grand Est",Frankreich,,,2017-09-18T11:37:01
+506,Bassano del Grappa,,,,,,,,,,"Vicenza, Venetien",Italien,,,2017-09-18T11:39:05
+507,Cathcart,,,,,,,,,,Glasgow,Schottland,,,2017-09-18T11:41:10
+508,Kapstadt,,,,,,,,,,,Südafrika,,,2017-09-18T11:41:36
+509,Rjazan’,,,,,,,,,,Oblast Rjasan,Russland,,,2017-09-18T11:48:49
+510,Ostrów bei Przemysl,,,,,,,,,,Woiwodschaft Podkarpackie,Polen,,,2017-09-18T11:56:27
+511,Falenica,,,,,,,,,,Warschau,Polen,,,2017-09-18T11:57:20
+512,Greußen,,,,,,,,,,Thüringen,Deutschland,,,2017-09-18T11:58:35
+513,Caen,,,,,,,,,,"Département Calvados, Normandie",Frankreich,,,2017-09-18T12:00:39
+514,Ort in Algier,,,,,,,,,,,Algier,,,2017-09-18T12:01:45
+515,Salem,,,,,,,,,,New Jersey,USA,,,2017-09-18T12:02:56
+516,Geisenheim,,,,,,,,,,"Rheingau-Taunus-Kreis, Hessen",Deutschland,,,2017-09-18T12:04:21
+517,Kislino,,,,,,,,,,Oblast Kaluga,Russland,,,2017-09-18T12:09:37
+518,Poltawa,,,,,,,,,,Oblast Poltawa,Ukraine,,,2017-09-18T12:10:28
+519,Ludwigsburg,,,,,,,,,,"Stuttgart, Baden-Württemberg",Deutschland,,,2017-09-18T12:15:53
+520,Heutingsheim bei Ludwigsburg,,,,,,,,,,"Stuttgart, Baden-Württemberg",Deutschland,,,2017-09-18T12:16:25
+521,Krakau (poln. Kraków),,,,,,,,,,Woiwodschaft Kleinpolen,Polen,,,2017-09-18T12:20:11
+522,Wojciechowice (bei Ostroleka),,,,,,,,,,Woiwodschaft Mazowieckie,Polen,,,2017-09-18T12:29:23
+523,Druskininkai,,,,,,,,,,Druskininkai,Litauen,,,2017-09-18T12:32:04
+524,Vilnius,,,,,,,,,,,Litauen,,,2017-09-18T12:33:00
+525,Santiago de Chile,,,,,,,,,,Santiago,Chile,,,2017-09-18T12:34:22
+526,Houdeng-Aimeries,,,,,,,,,,Région Wallonne,Belgien,,,2017-09-18T12:37:06
+527,Lüttich (frz. Liège),,,,,,,,,,"Lüttich, Région Wallonne",Belgien,,,2017-09-18T12:38:27
+528,Schwerin,,,,,,,,,,Mecklemburg-Vorpommern,Deutschland,,,2017-09-18T12:40:20
+529,Badenweiler,,,,,,,,,,Baden-Württemberg,Deutschland,,,2017-09-18T12:40:50
+530,Saint-Josse-ten-Noode bei Brüssel,,,,,,,,,,Brüssel-Hauptstadt,Belgien,,,2017-09-18T12:43:06
+531,Saint-Gilles bei Brüssel,,,,,,,,,,Brüssel-Hauptstadt,Belgien,,,2017-09-18T12:43:27
+532,Boom,,,,,,,,,,Flandern,Belgien,,,2017-09-18T12:46:12
+533,Watermael-Boitsfort bei Brüssel,,,,,,,,,,Brüssel-Hauptstadt,Belgien,,,2017-09-18T12:47:43
+534,Cahors,,,,,,,,,,"Département Lot, Okzitanien",Frankreich,,,2017-09-18T12:49:09
+535,Leicester,,,,,,,,,,East Midlands,England,,,2017-09-18T12:51:43
+536,Thornton Heath,,,,,,,,,,Südlondon,England,,,2017-09-18T12:52:11
+537,North Tarrytown,,,,,,,,,,New York,USA,,,2017-09-18T12:55:04
+538,Vorly,,,,,,,,,,"Département Cher, Centre-Val de Loire",Frankreich,,,2017-09-18T12:56:27
+539,Bourges,,,,,,,,,,"Département Cher, Centre-Val de Loire",Frankreich,,,2017-09-18T12:56:48
+540,Tresnea,,,,,,,,,,"Kreis Salaj, Siebenbürgen",Rumänien,,,2017-09-18T13:00:14
+541,Timisoara,,,,,,,,,,Timis,Rumänien,,,2017-09-18T13:01:32
+542,Bailleul,,,,,,,,,,"Département Nord, Hauts-de France",Frankreich,,,2017-09-18T13:02:58
+543,Lille,,,,,,,,,,"Département Nord, Hauts-de-France",Frankreich,,,2017-09-18T13:03:56
+544,Sydney,,,,,,,,,,New South Wales,Australien,,,2017-09-18T13:05:07
+545,Menlo Park,,,,,,,,,,Kalifornien,USA,,,2017-09-18T13:05:54
+546,Shady,,,,,,,,,,New York,USA,,,2017-09-18T13:06:05
+547,Kingston,,,,,,,,,,New York,USA,,,2017-09-18T13:06:53
+548,Gulf Stream,,,,,,,,,,Florida,USA,,,2017-09-18T13:07:07
+549,Fort Scott,,,,,,,,,,Kansas,USA,,,2017-09-18T13:07:48
+550,Zeist,,,,,,,,,,Utrecht,Niederlande,,,2017-09-18T13:08:38
+551,Budel,,,,,,,,,,Nordbrabant,Niederlande,,,2017-09-18T13:09:08
+552,Tapolcafö,,,,,,,,,,Pápa,Ungarn,,,2017-09-18T13:11:06
+553,Brailov,,,,,,,,,,Vinnica,Ukraine,,,2017-09-18T13:16:59
+554,Vucja vas ,,,,,,,,,,,Slowenien,,,2017-09-18T13:18:41
+555,Ljubljana,,,,,,,,,,Ljubljana,Slownien,,,2017-09-18T13:19:11
+556,Dijon,,,,,,,,,,"Département Côte-d'Or, Bourgogne-Franche-Comté",Frankreich,,,2017-09-18T13:22:27
+557,Chaumont,,,,,,,,,,"Département Haut-Marne, Grand Est",Frankreich,,,2017-09-18T13:22:53
+558,Mehrere Ortsangaben,,,,,,,,,,,,,,2017-09-19T14:27:12
+559,Chemnitz,,,,,,,,,,,,,,2017-09-19T14:28:20
+560,St. Petersburg,,,,,,,,,,,,,,2017-09-19T14:40:57
+561,Bayreuth,,,,,,,,,,,,,,2017-09-19T14:41:13
+562,Waldbröl,,,,,,,,,,,,,,2017-09-20T12:53:28
+563,Pulsnitz,,,,,,,,,,,,,,2017-09-20T12:53:28
+564,Kyoto,,,,,,,,,,,,,,2017-09-20T12:53:28
+565,Otago,,,,,,,,,,,,,,2017-09-20T12:53:28
+566,Arkansas,,,,,,,,,,,,,,2017-09-20T12:53:28
+568,Schwarzenbach,,,,,,,,,,,,,,2017-09-20T12:53:28
+569,Meiningen,,,,,,,,,,,,,,2017-09-20T12:53:28
+570,Hainrode,,,,,,,,,,,,,,2017-09-20T12:53:28
+571,Wernigerode,,,,,,,,,,,,,,2017-09-20T12:53:28
+572,Lemberg,,,,,,,,,,,,,,2017-09-20T12:53:28
+573,Torgau,,,,,,,,,,,,,,2017-09-20T12:53:28
+574,Shantiniketan,,,,,,,,,,,,,,2017-09-20T12:53:28
+576,Rheinsberg,,,,,,,,,,,,,,2017-09-20T12:53:28
+577,Nagycárad,,,,,,,,,,,,,,2017-09-20T12:53:28
+578,Preßburg,,,,,,,,,,,,,,2017-09-20T12:53:28
+593,Middlebury,,,,,,,,,,,,,,2017-09-20T15:23:13
+594,Wisconsin,,,,,,,,,,,,,,2017-09-20T15:23:13
+595,Madison,,,,,,,,,,Wisconsin,USA,,,2017-12-11T11:00:34
+596,Montreal,,,,,,,,,,,,,,2017-09-20T15:23:13
+597,Maryland,,,,,,,,,,,,,,2017-09-20T15:23:13
+598,Vatikanstadt,,,,,,,,,,,,,,2017-09-20T15:23:13
+599,Leiden,,,,,,,,,,,,,,2017-09-20T15:23:13
+600,Haarlem,,,,,,,,,,,,,,2017-09-20T15:23:13
+601,Rotterdam,,,,,,,,,,,,,,2017-09-20T15:23:13
+602,Krakau,,,,,,,,,,,,,,2017-09-20T15:23:13
+603,Pembroke,,,,,,,,,,,,,,2017-09-20T15:23:13
+604,Bozen,,,,,,,,,,,,,,2017-09-20T15:23:13
+605,Carlisle,,,,,,,,,,Pennsylvania,USA,,,2017-10-30T12:12:53
+606,Pennsylvania,,,,,,,,,,,,,,2017-09-20T15:23:13
+607,Aurora,,,,,,,,,,New York,USA,,,2017-10-30T12:10:13
+608,Toronto,,,,,,,,,,,,,,2017-09-20T15:23:13
+609,East Lansing,,,,,,,,,,Michigan,USA,,,2017-10-30T12:16:34
+610,Kalabrien,,,,,,,,,,,,,,2017-09-20T15:23:13
+611,Northhampton,,,,,,,,,,Massachusetts,USA,,,2017-10-30T12:37:34
+613,Seattle,,,,,,,,,,,,,,2017-09-20T15:23:13
+614,Halle-Wittenberg,,,,,,,,,,,,,,2017-09-20T15:23:13
+615,Schleusingen,,,,,,,,,,,,,,2017-09-20T15:23:13
+616,Hirschberg,,,,,,,,,,,,,,2017-09-20T15:23:13
+618,Fellin (Livland),,,,,,,,,,,,,,2017-09-20T15:23:13
+619,Ottawa,,,,,,,,,,,,,,2017-09-20T15:23:13
+621,New Haven,,,,,,,,,,Connecticut,USA,,,2017-10-30T12:36:57
+623,Saarbrücken,,,,,,,,,,Saarland,Deutschland,,,2018-01-17T14:33:34
+624,Reval,,,,,,,,,,,,,,2017-09-20T15:23:13
+625,Naumburg,,,,,,,,,,,,,,2017-09-20T15:23:13
+627,Bad Steben,,,,,,,,,,,,,,2017-09-20T15:23:13
+628,Los Altos,,,,,,,,,,,,,,2017-09-20T15:23:13
+629,Belfast,,,,,,,,,,,,,,2017-09-20T15:23:13
+630,Detmold,,,,,,,,,,,,,,2017-09-20T15:23:13
+631,Graz-Eggenberg,,,,,,,,,,,,,,2017-09-20T15:23:13
+632,Gratkorn,,,,,,,,,,,,,,2017-09-20T15:23:13
+633,Wolverhampton,,,,,,,,,,,,,,2017-09-20T15:23:13
+634,Bratislava,,,,,,,,,,,,,,2017-09-20T15:23:13
+635,Belagio,,,,,,,,,,,,,,2017-09-20T15:23:13
+637,Wellesley,,,,,,,,,,Massachusetts,USA,,,2017-11-13T17:05:13
+638,Annapolis,,,,,,,,,,Maryland,USA,,,2017-11-13T16:59:40
+639,Ascona,,,,,,,,,,,,,,2017-09-20T15:23:13
+640,Visp (franz. Viège),,,,,,,,,,Kanton Wallis,Schweiz,,,2017-10-18T09:06:59
+641,Dobitschen bei Altenburg,,,,,,,,,,,Deutschland,,,2017-10-18T09:22:28
+642,Aschaffenburg,,,,,,,,,,,Deutschland,,,2017-10-18T09:52:17
+643,Carmignano,,,,,,,,,,Toskana,Italien,,,2017-10-18T09:55:22
+644,Oberrotweil (bei Freiburg im Breisgau),,,,,,,,,,,Deutschland,,,2017-10-18T10:00:01
+645,Krefeld,,,,,,,,,,,Deutschland,,,2017-10-18T10:06:19
+646,Neuilly-sur-Seine,,,,,,,,,,Département Hauts-de-Seine,Frankreich,,,2017-10-18T10:15:26
+647,Zagarolo bei Rom,,,,,,,,,,Latium,Italien,,,2017-10-18T10:16:43
+648,Frauenfeld,,,,,,,,,,Kanton Thurgau,Schweiz,,,2017-10-18T10:20:09
+649,Örebro,,,,,,,,,,Örebro Iän,Schweden,,,2017-10-18T10:22:38
+650,Birkenhead (bei Liverpool),,,,,,,,,,Grafschaft Merseyside,England,,,2017-10-18T10:24:50
+651,Neapel,,,,,,,,,,Kampanien,Italien,,,2017-10-18T10:28:17
+652,Dubravka (bei Dubrovnik),,,,,,,,,,,Kroatien,,,2017-10-18T10:31:59
+653,Lausanne,,,,,,,,,,Kanton Waadt,Schweiz,,,2017-10-18T10:36:16
+654,Ribston,,,,,,,,,,Yorkshire,England,,,2017-10-18T10:38:15
+655,Langres,,,,,,,,,,"Region Grand Est, Département Haute-Marne",Frankreich,,,2017-10-18T10:40:37
+656,Biebrich am Rhein (bei Wiesbaden),,,,,,,,,,Hessen,Deutschland,,,2017-10-18T10:43:10
+657,Seis am Schlern,,,,,,,,,,Südtirol,Italien,,,2017-10-18T10:43:48
+658,Trient,,,,,,,,,,Trentino-Südtirol,Italien,,,2017-10-18T10:45:43
+659,Sanford,,,,,,,,,,Florida,USA,,,2017-10-18T10:47:47
+660,Szeged,,,,,,,,,,"Südliche Große Tiefebene, Komitat Csongrád",Ungarn,,,2017-10-18T10:51:04
+661,Rostow am Don (russ. Rostov-na-Donu),,,,,,,,,,"Südrussland, Oblast Rostow",Russland,,,2017-10-18T10:54:09
+662,Treysa,,,,,,,,,,Hessen,Deutschland,,,2017-10-18T10:57:16
+663,Csíkvárdotfalva,,,,,,,,,,,Rumänien,,,2017-10-18T11:00:58
+664,Piove di Sacco,,,,,,,,,,"Venetien, Provinz Padua",Italien,,,2017-10-18T11:04:06
+665,Chrudim,,,,,,,,,,Pardubicky kraj,Tschechien,,,2017-10-18T11:07:54
+666,Cetate (bei Craiova),,,,,,,,,,,Rumänien,,,2017-10-18T11:13:05
+667,Mitwitz,,,,,,,,,,"Bayern, Oberfranken",Deutschland,,,2017-10-18T11:18:49
+668,Saint-Jean-de-Braye,,,,,,,,,,Loret,Frankreich,,,2017-10-18T11:22:03
+669,Rouen,,,,,,,,,,"Normandie, Département Seine-Maritime",Frankreich,,,2017-10-18T11:23:36
+670,Arnheim (ndrl. Arnhem),,,,,,,,,,Gelderland,Niederlande,,,2017-10-18T11:26:33
+671,Loenen aan de Vecht ,,,,,,,,,,Utrecht,Niederlande,,,2017-10-18T11:27:08
+672,Charlottenburg,,,,,,,,,,Berlin,Deutschland,,,2017-10-18T11:28:53
+673,Pazardžik,,,,,,,,,,"Oberthrakische Tiefebene, Provinz Pasardschik",Bulgarien,,,2017-10-18T11:30:49
+674,Cincinnati,,,,,,,,,,,,,,2017-10-18T17:53:42
+675,San Diego,,,,,,,,,,Kalifornien,USA,,,2017-10-30T12:41:37
+676,"Rochester, New York",,,,,,,,,,,,,,2017-10-18T17:54:25
+677,Hasselfelde,,,,,,,,,,,,,,2017-10-18T17:53:42
+678,Elbingerode,,,,,,,,,,,,,,2017-10-18T17:53:42
+679,Halberstadt,,,,,,,,,,,,,,2017-10-18T17:53:42
+680,Tallinn,,,,,,,,,,,,,,2017-10-18T17:53:42
+681,Koblenz,,,,,,,,,,,,,,2017-10-18T17:53:42
+682,Sondershausen,,,,,,,,,,,,,,2017-10-18T17:53:42
+683,Beijing,,,,,,,,,,,,,,2017-10-18T17:53:42
+689,Weißwasser,,,,,,,,,,,,,,2017-11-01T16:34:42
+690,Clermont-Ferrand,,,,,,,,,,"Département Puy-de-Dôme, Auvergne-Rhône-Alpes",Frankreich,,,2017-12-04T09:16:03
+691,Kingston,,,,,,,,,,Ontario,Kanada,,,2017-12-11T11:02:34
+692,Delhi,,,,,,,,,,,Indien,,,2017-12-11T12:18:15
+693,Rende,,,,,,,,,,Kalabrien,Italien,,,2017-12-11T15:06:37
+694,Vereinigtes Königreicht (ortsübergreifend),,,,,,,,,,,Vereinigtes Königreich,,,2017-12-18T14:50:26
+695,Deutschland (ortsübergreifend),,,,,,,,,,,Deutschland,,,2017-12-18T14:50:39
+696,Großbritannien (ortsübergreifend),,,,,,,,,,,,,,2017-12-18T14:53:29
+697,Dunedin,,,,,,,,,,Otago,Neuseeland,,,2018-01-08T16:23:50
+698,Fayetteville,,,,,,,,,,Arkansas,USA,,,2018-01-08T16:28:46
+699,Syracuse,,,,,,,,,,New York,USA,,,2018-03-09T10:05:09
+700,Ort in Schweden,,,,,,,,,,,,,,2018-03-13T12:38:14
+701,Heidenheim an der Brenz,,,,,,,,,,Baden-Württemberg,Deutschland,,,2018-03-13T16:31:59
+702,Lehrte,,,,,,,,,,Niedersachsen,Deutschland,,,2018-04-03T13:49:12
+703,Tegernsee,,,,,,,,,,Bayern,Deutschland,,,2018-04-03T13:50:11
+704,Champaign-Urbana,,,,,,,,,,Illinois,USA,,,2018-04-03T14:58:43
+705,Bad Langensalza,,,,,,,,,,Thüringen,Deutschland,,,2018-04-18T13:43:12
+706,Eltville am Rhein,,,,,,,,,,Hessen,Deutschland,,,2018-04-18T13:50:46
+707,Heidesheim am Rhein,,,,,,,,,,Rheinland-Pfalz,Deutschland,,,2018-04-18T13:52:12
+708,Rhede,,,,,,,,,,Nordrhein-Westfalen,Deutschland,,,2018-04-18T15:45:24
+709,Weinheim,,,,,,,,,,Baden-Württemberg,Deutschland,,,2018-04-18T15:46:47
+710,Wilhelmshaven,,,,,,,,,,Niedersachsen,Deutschland,,,2018-04-18T15:48:21
+711,Donauwörth,,,,,,,,,,,Deutschland,,,2018-04-18T15:49:59
+712,Troisdorf,,,,,,,,,,Nordrhein-Westfalen,Deutschland,,,2018-04-18T15:51:05
+713,Pfaffenweiler,,,,,,,,,,Baden-Württemberg,Deutschland,,,2018-04-25T09:03:59
+714,Grimma,,,,,,,,,,Sachsen,Deutschland,,,2018-04-25T09:38:19
+715,Allenstein,,,,,,,,,,Ermland-Masuren,Polen,,Anderslautender Name: Olsztyn,2018-04-25T13:16:29
+716,Westerland,,,,,,,,,,Schleswig-Holstein,Deutschland,,,2018-05-02T10:43:11
+717,Wiltz,,,,,,,,,,,Luxemburg,,,2018-05-02T12:21:01
+718,Glogau,,,,,,,,,,,,,,2018-05-02T12:42:24
+719,Raase,,,,,,,,,,Mähren-Schlesien,Tschechien,,Anderslautender Name: Razová,2018-05-09T09:26:02
+720,Mährisch-Trübau,,,,,,,,,,Pardubice,Tschechien,,Anderslautender Name: Moravská Trebová,2018-05-09T09:40:52
+721,Reichenbach,,,,,,,,,,,Deutschland,,,2018-05-09T10:40:12
+722,Jerusalem,,,,,,,,,,,Israel,,,2018-05-09T13:06:01
+723,Palm Springs,,,,,,,,,,Kalifornien,USA,,,2018-05-16T15:23:59
+724,Kamenz,,,,,,,,,,"Sachsen, Oberlausitz",Deutschland,,,2018-05-23T13:06:46
+725,Treuenbrietzen,,,,,,,,,,Brandenburg,Deutschland,,,2018-05-23T13:15:13
+726,Bergedorf,,,,,,,,,,Hamburg,Deutschland,,,2018-05-23T13:39:46
+727,Kleve,,,,,,,,,,Nordrhein-Westfalen,Deutschland,,,2018-05-30T09:25:06
+728,Bad Homburg,,,,,,,,,,Hessen,Deutschland,,Bad Homburg vor der Höhe,2018-05-30T09:31:11
+729,Gera,,,,,,,,,,Thüringen,Deutschland,,,2018-05-30T09:41:45
+730,Salzbrunn,,,,,,,,,,,Polen,,Anderslautender Name: Szczawno Zdrój,2018-05-30T10:52:50
+731,Radeberg-Großerkmannsdorf,,,,,,,,,,Sachsen,Deutschland,,,2018-05-30T12:03:54
+732,Lansing,,,,,,,,,,Michigan,USA,,,2018-05-30T12:07:28
+733,Târnaveni ,,,,,,,,,,Siebenbürgen,Rumänien,,,2018-05-30T12:10:11
+734,Mikkeli,,,,,,,,,,,Finnland,,,2018-05-30T12:11:55
+735,Helsinki,,,,,,,,,,,Finnland,,,2018-05-30T12:12:34
+736,Bischofsburg,,,,,,,,,,,Deutschland,,,2018-05-30T12:15:34
+737,Neiße,,,,,,,,,,Oberschlesien,Polen,,,2018-05-30T12:19:08
+738,Nürnberg,,,,,,,,,,Bayern,Deutschland,,,2018-05-30T12:20:05
+739,Barcelona,,,,,,,,,,Katalonien,Spanien,,,2018-06-05T08:36:38
+740,Lugano,,,,,,,,,,Tessin,Schweiz,,,2018-06-05T08:54:17
+741,Verona,,,,,,,,,,Venetien,Italien,,,2018-06-05T10:11:00
+742,Düsseldorf-Kaiserwerth,,,,,,,,,,Nordrhein-Westfalen,Deutschland,,,2018-09-04T10:49:29
+743,Wuppertal,,,,,,,,,,"Nordrhein Westfalen, Bergisches Land",Deutschland,,,2018-09-04T10:49:59
+744,Howth,,,,,,,,,,,Irland,,,2018-09-05T11:59:45
+745,Kalkutta,,,,,http://d-nb.info/gnd/4029344-0,,http://sws.geonames.org/1275004,,,West Bengal,Indien,56,bearb. von AvD-H,2018-09-17T15:30:52
+746,Dachau,,,,,,,,,,Bayern,Deutschland,,,2018-09-19T09:43:56
+747,Požarevac,,,,,,,,,,,Serbien,,,2018-09-19T10:11:54
+748,Aarschot,,,,,,,,,,,Belgien,,,2018-09-19T10:14:19
+749,Duffel,,,,,,,,,,,Belgien,,,2018-09-19T10:17:00
+750,Stralsund,,,,,,,,,,,Deutschland,,,2018-09-19T10:22:38
+751,Austin,,,,,,,,,,Texas,USA,,,2018-09-19T10:22:52
+752,Alessandria,,,,,,,,,,,Italien,,,2018-09-19T10:25:57
+753,Perthes-lès-Hurlus,,,,,,,,,,,Frankreich,,,2018-09-19T10:28:16
+754,Tarragona,,,,,,,,,,"Katalonien, Tarragona",Spanien,,,2018-10-10T15:56:11
+755,Nizza,,,,,,,,,,Departement Alpes-Maritimes,Frankreich,,,2018-10-24T10:20:24
+756,Großbothen,,,,,,,,,,Sachsen,Deutschland,,,2018-10-24T10:24:38
+757,Schweiz (deutschsprachig),,,,,,,,,,,Schweiz,,,2018-10-31T11:37:37
+758,Wickersdorf,,,,,"http://d-nb.info/gnd/4409765-7
+",,,,,Thüringen,Deutschland,,,2018-11-07T16:29:36
+759,Großaltdorf,,,,,http://d-nb.info/gnd/300054-0,,,,,Baden-Württemberg,Deutschland,,,2018-11-12T12:10:01
+760,Saalfeld/Saale,,,,,http://d-nb.info/gnd/4051087-6,,,,,Thüringen,Deutschland,,,2018-11-12T12:11:59
+761,Schlebusch,,,,,http://d-nb.info/gnd/4293144-7,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-12T12:14:46
+762,Grevenbroich,,,,,http://d-nb.info/gnd/4093964-9,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-12T12:15:40
+763,Charlottesville,,,,,http://d-nb.info/gnd/4119820-7,,,,,,USA,,,2018-11-12T12:29:49
+764,Plauen,,,,,http://d-nb.info/gnd/4046334-5,,,,,Sachsen,Deutschland,,,2018-11-12T12:35:48
+765,Meßkirch,,,,,http://d-nb.info/gnd/4038841-4,,,,,Baden-Württemberg,Deutschland,,,2018-11-12T14:16:31
+766,Langewiesen,,,,,http://d-nb.info/gnd/4322022-8,,,,,Thüringen,Deutschland,,,2018-11-12T14:48:01
+767,Žasliai,,,,,http://d-nb.info/gnd/4576564-9,,,,,,,,,2018-11-12T14:57:25
+768,Plochingen,,,,,http://d-nb.info/gnd/4046380-1,,,,,Baden-Württemberg,Deutschland,,,2018-11-12T15:01:17
+769,Plánice,,,,,http://d-nb.info/gnd/4115984-6,,,,,,Tschechische Republik,,,2018-11-12T15:09:31
+770,Duisburg,,,,,http://d-nb.info/gnd/4013284-5,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-12T15:21:16
+771,Tadworth,,,,,http://d-nb.info/gnd/4770241-2,,,,,,Großbritannien,,,2018-11-12T15:31:34
+772,Minneapolis,,,,,http://d-nb.info/gnd/4039497-9,,,,,,USA,,,2018-11-12T15:49:04
+773,Moreni,,,,,http://d-nb.info/gnd/1044674156,,,,,,Rumänien,,,2018-11-12T15:51:11
+774,Kamen-Heeren-Werve,,,,,http://d-nb.info/gnd/4096073-0,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-12T16:57:13
+775,Grottkau,,,,,http://d-nb.info/gnd/4239230-5,,,,,,Polen,,,2018-11-12T17:28:27
+776,Mohrungen,,,,,http://d-nb.info/gnd/4101115-6,,,,,,Polen,,,2018-11-12T17:40:19
+777,Laon,,,,,http://d-nb.info/gnd/4111215-5,,,,,,Frankreich,,,2018-11-12T17:43:09
+778,Neuwied,,,,,,,,,,,Deutschland,,,2018-11-12T17:50:30
+779,Glasgow,,,,,http://d-nb.info/gnd/4021159-9,,,,,,Großbritannien,,,2018-11-12T18:03:27
+780,Wahrenbrück,,,,,http://d-nb.info/gnd/4674270-0,,,,,Brandenburg,Deutschland,,,2018-11-12T18:11:55
+781,Lódz,,,,,http://d-nb.info/gnd/4074299-4,,,,,,Polen,,,2018-11-12T18:17:21
+782,Schaffhausen,,,,,http://d-nb.info/gnd/4051993-4,,,,,,,,,2018-11-12T18:27:40
+783,Scheden,,,,,http://d-nb.info/gnd/4508577-8,,,,,Niedersachsen,Deutschland,,,2018-11-12T18:38:40
+784,Roßlau,,,,,http://d-nb.info/gnd/4290391-9,,,,,Sachsen-Anhalt,Deutschland,,,2018-11-12T19:07:44
+785,Krössuln,,,,,http://d-nb.info/gnd/1058207768,,,,,Sachsen-Anhalt,Deutschland,,,2018-11-12T19:12:55
+786,Kühlungsborn,,,,,http://d-nb.info/gnd/4033394-2,,,,,Mecklenburg-Vorpommern,Deutschland,,,2018-11-12T19:18:54
+787,Littleborough,,,,,,,,,,,,,,2018-11-12T19:27:11
+788,Cadolzburg,,,,,http://d-nb.info/gnd/4129267-4,,,,,Bayern,Deutschland,,,2018-11-12T19:30:21
+789,Wolfach,,,,,http://d-nb.info/gnd/4108517-6,,,,,Baden-Württemberg,Deutschland,,,2018-11-12T19:38:51
+790,Wendisch-Ossig,,,,,,,,,,,,,,2018-11-12T19:45:36
+791,Hanau,,,,,http://d-nb.info/gnd/4023201-3,,,,,Hessen,Deutschland,,,2018-11-12T19:52:30
+792,Chengdu,,,,,http://d-nb.info/gnd/4249575-1,,,,,,China,,,2018-11-19T09:55:32
+793,Goslar,,,,,http://d-nb.info/gnd/4021643-3,,,,,Niedersachsen,Deutschland,,,2018-11-19T09:56:32
+794,Benneckenstein (Harz),,,,,http://d-nb.info/gnd/5159791-3,,,,,,Deutschland,,,2018-11-19T10:04:07
+795,Northwich,,,,,http://d-nb.info/gnd/7670468-3,,,,,,Großbritannien,,,2018-11-19T10:23:36
+796,York,,,,,http://d-nb.info/gnd/4067205-0,,,,,,Großbritannien,,,2018-11-19T10:24:53
+797,Rostock,,,,,http://d-nb.info/gnd/4050610-1,,,,,Mecklenburg-Vorpommern,Deutschland,,,2018-11-19T10:30:06
+798,Empoli,,,,,http://d-nb.info/gnd/4217920-8,,,,,,Italien,,,2018-11-19T10:34:33
+799,Nottingham,,,,,http://d-nb.info/gnd/4117929-8,,,,,,Großbritannien,,,2018-11-19T10:39:34
+800,Royal Leamington Spa,,,,,http://d-nb.info/gnd/4318628-2,,,,,,Großbritannien,,,2018-11-19T10:45:58
+801,Lima,,,,,http://d-nb.info/gnd/4035742-9,,,,,,Peru,,,2018-11-19T10:56:49
+802,Jelšava,,,,,http://d-nb.info/gnd/7724284-1,,,,,,Slowakei,,,2018-11-19T11:18:59
+803,Cibourne,,,,,http://d-nb.info/gnd/4312523-2,,,,,,Frankreich,,,2018-11-19T11:36:36
+804,Coesfeld,,,,,http://d-nb.info/gnd/4010355-9,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-19T11:41:04
+805,Tegel,,,,,http://d-nb.info/gnd/5007835-5,,,,,Berlin,Deutschland,,,2018-11-19T11:44:35
+806,Aix-en-Provence,,,,,http://d-nb.info/gnd/4000860-5,,,,,,Frankreich,,,2018-11-19T11:46:25
+807,Wandersleben,,,,,http://d-nb.info/gnd/5268083-6,,,,,Thüringen,Deutschland,,,2018-11-19T11:50:13
+808,Proßnitz,,,,,http://d-nb.info/gnd/4240635-3,,,,,,Tschechische Republik,,,2018-11-19T11:56:33
+809,Tymoszówka ,,,,,,,,,,,heute: Ukraine,,,2018-11-19T12:01:49
+810,Glauchau,,,,,http://d-nb.info/gnd/4244876-1,,,,,Sachsen,Deutschland,,,2018-11-19T12:03:59
+812,Ventspils (Region),,,,,http://d-nb.info/gnd/1044522496,,,,,,Lettland,,,2018-11-19T13:04:27
+813,Johannesburg,,,,,http://d-nb.info/gnd/4028698-8,,,,,,Südafrika,,,2018-11-19T13:06:47
+814,Pforzheim,,,,,http://d-nb.info/gnd/4045637-7,,,,,Baden-Württemberg,Deutschland,,,2018-11-19T13:10:31
+815,Puerto de la Cruz,,,,,http://d-nb.info/gnd/4242802-6,,,,,,Spanien,,,2018-11-19T13:23:18
+816,Madrid,,,,,http://d-nb.info/gnd/118775634,,,,,,Spanien,,,2018-11-19T13:24:27
+817,"Miami, Fla.",,,,,http://d-nb.info/gnd/4039108-5,,,,,,USA,,,2018-11-19T13:33:57
+818,Wyschni Wolotschok,,,,,,,,,,,Russland,,,2018-11-19T13:37:48
+819,Buxton,,,,,http://d-nb.info/gnd/4196645-4,,,,,,Großbritannien,,,2018-11-19T13:51:58
+820,Dreis (Landkreis Bernkastel-Wittlich),,,,,http://d-nb.info/gnd/5287787-5,,,,,Rheinland-Pfalz,Deutschland,,,2018-11-19T13:59:58
+821,Köln-Lindenthal,,,,,http://d-nb.info/gnd/4098637-8,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-19T14:04:11
+822,Plankstadt,,,,,http://d-nb.info/gnd/4046228-6,,,,,Baden-Württemberg,Deutschland,,,2018-11-19T14:05:32
+823,Bad Ischl,,,,,http://d-nb.info/gnd/4027718-5,,,,,,Österreich,,,2018-11-19T14:08:48
+824,Birr,,,,,http://d-nb.info/gnd/4566886-3,,,,,,Irland,,,2018-11-19T14:10:42
+825,Hukvaldy,,,,,http://d-nb.info/gnd/4288140-7,,,,,,Tschechische Republik,,,2018-11-19T14:12:32
+826,Ostrava,,,,,http://d-nb.info/gnd/4044095-3,,,,,,Tschechische Republik,,,2018-11-19T14:13:12
+827,Ronov na Doubravou,,,,,,,,,,,Tschechische Republik,,,2018-11-19T14:27:12
+828,Bülach,,,,,http://d-nb.info/gnd/4088568-9,,,,,,Schweiz,,,2018-11-19T14:30:34
+829,Mogilno,,,,,http://d-nb.info/gnd/4397388-7,,,,,,Polen,,,2018-11-19T14:41:18
+830,Wannsee (Ort),,,,,http://d-nb.info/gnd/5193755-4,,,,,Berlin,Deutschland,,,2018-11-19T14:44:42
+831,Genua,,,,,http://d-nb.info/gnd/4020185-5,,,,,,Italien,,,2018-11-19T14:47:59
+832,Faido,,,,,http://d-nb.info/gnd/4236639-2,,,,,,Tessin,,,2018-11-19T14:48:47
+833,Antibes,,,,,http://d-nb.info/gnd/4002253-5,,,,,,Frankreich,,,2018-11-19T14:59:33
+834,Boguszów,,,,,http://d-nb.info/gnd/7759006-5,,,,,,Polen,,,2018-11-19T15:01:50
+835,"Riverside, Calif.",,,,,http://d-nb.info/gnd/4119984-4,,,,,,USA,,,2018-11-19T15:09:42
+836,Mons,,,,,,,,,,,,,,2018-11-19T15:26:04
+837,Sulza,,,,,http://d-nb.info/gnd/105289769X,,,,,Thüringen,Deutschland,,,2018-11-19T15:33:54
+838,Bad Doberan,,,,,http://d-nb.info/gnd/4012564-6,,,,,Mecklenburg-Vorpommern,Deutschland,,,2018-11-19T15:36:23
+839,Dohna,,,,,http://d-nb.info/gnd/4431519-3,,,,,Sachsen,Deutschland,,,2018-11-19T15:41:47
+840,San Remo,,,,,http://d-nb.info/gnd/4118347-2,,,,,,Italien,,,2018-11-19T15:48:18
+841,Veles,,,,,http://d-nb.info/gnd/4119629-6,,,,,,Makedonien,,,2018-11-19T15:50:15
+842,Milki (Suwalki),,,,,http://d-nb.info/gnd/4470555-4,,,,,,Polen,,,2018-11-19T15:54:28
+843,Rudolstadt,,,,,http://d-nb.info/gnd/4105066-6,,,,,Thüringen,Deutschland,,,2018-11-19T15:57:13
+844,Olmütz,,,,,http://d-nb.info/gnd/4075643-9,,,,,,Tschechische Republik,,,2018-11-19T16:15:10
+845,Delitzsch,,,,,http://d-nb.info/gnd/4011376-0,,,,,Sachsen,Deutschland,,,2018-11-19T16:17:38
+846,Lyon,,,,,http://d-nb.info/gnd/4036770-8,,,,,,Frankreich,,,2018-11-19T16:21:00
+847,Steinbach (Baden-Baden),,,,,,,,,,,Deutschland,,,2018-11-19T16:28:22
+848,Sonthofen,,,,,,,,,,,Deutschland,,,2018-11-19T16:29:20
+849,Martinoves,,,,,,,,,,,Tschechische Republik,,,2018-11-19T17:14:21
+850,Karlsbad,,,,,http://d-nb.info/gnd/4029705-6,,,,,,Tschechische Republik,,,2018-11-19T17:18:45
+851,Bad Buchau,,,,,http://d-nb.info/gnd/4008586-7,,,,,Baden-Württemberg,Deutschland,,,2018-11-19T17:24:38
+852,Mittersill,,,,,http://d-nb.info/gnd/4101059-0,,,,,,Österreich,,,2018-11-19T17:50:08
+853,Périgueux,,,,,http://d-nb.info/gnd/4045161-6,,,,,,Frankreich,,,2018-11-19T17:52:43
+854,Knittelfeld,,,,,http://d-nb.info/gnd/4031304-9,,,,,,Österreich,,,2018-11-19T17:56:47
+855,Waitzenkirchen,,,,,,,,,,,Österreich,,,2018-11-19T18:09:44
+856,Rabastens,,,,,,,,,,,Frankreich,,,2018-11-19T18:11:05
+857,Vaduz,,,,,http://d-nb.info/gnd/4062244-7,,,,,,Liechtenstein,,,2018-11-19T18:13:23
+858,Holešov,,,,,http://d-nb.info/gnd/4470549-9,,,,,,Tschechische Republik,,,2018-11-19T18:16:47
+859,Eilenburg,,,,,http://d-nb.info/gnd/4235486-9,,,,,Sachsen,Deutschland,,,2018-11-19T18:20:55
+860,Montevideo,,,,,http://d-nb.info/gnd/4115214-1,,,,,,Uruguay,,,2018-11-19T18:21:32
+861,Marienwerder,,,,,http://d-nb.info/gnd/4037555-9,,,,,,Polen,,,2018-11-26T09:44:24
+862,Redding,,,,,,,,,,,USA,,,2018-11-26T09:48:54
+863,Aberdeen,,,,,http://d-nb.info/gnd/4079606-1,,,,,,Großbritannien,,,2018-11-26T09:56:25
+864,Grahamstown,,,,,http://d-nb.info/gnd/4562525-6,,,,,,Südafrika,,,2018-11-26T09:57:25
+865,Pikasilla,,,,,,,,,,,,,,2018-11-26T09:59:13
+866,Tartu,,,,,http://d-nb.info/gnd/1029285-8,,,,,,Estland,,,2018-11-26T09:59:36
+867,Hämeenlinna,,,,,http://d-nb.info/gnd/4022801-0,,,,,,Finnland,,,2018-11-26T10:05:52
+868,Kremsier,,,,,,,,,,,,,,2018-11-26T10:11:45
+869,Ludwigshafen am Rhein,,,,,http://d-nb.info/gnd/4036472-0,,,,,Rheinland-Pfalz,Deutschland,,,2018-11-26T10:17:24
+870,Großaitingen,,,,,http://d-nb.info/gnd/4086811-4,,,,,Bayern,Deutschland,,,2018-11-26T10:22:17
+871,Bad Kissingen,,,,,http://d-nb.info/gnd/4030875-3,,,,,Bayern,Deutschland,,,2018-11-26T10:22:49
+872,Kahla,,,,,,,,,,,,,,2018-11-26T10:33:04
+873,Bad Segeberg,,,,,http://d-nb.info/gnd/4054214-2,,,,,Schleswig-Holstein,Deutschland,,,2018-11-26T10:47:23
+874,Königstein im Taunus,,,,,http://d-nb.info/gnd/4031559-9,,,,,Hessen,Deutschland,,,2018-11-26T10:51:01
+875,Krems- Stein an der Donau,,,,,http://d-nb.info/gnd/4105634-6,,,,,,Österreich,,,2018-11-26T11:15:17
+876,Kecskemét,,,,,http://d-nb.info/gnd/4097759-6,,,,,,Ungarn,,,2018-11-26T11:26:12
+877,Stockem (Stolberg),,,,,http://d-nb.info/gnd/4755088-0,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-26T11:34:10
+878,Arosa,,,,,http://d-nb.info/gnd/4079837-9,,,,,,Schweiz,,,2018-11-26T11:37:31
+879,Pieszyce,,,,,http://d-nb.info/gnd/4814919-6,,,,,,Polen,,,2018-11-26T11:40:51
+880,Bregenz,,,,,http://d-nb.info/gnd/4008099-7,,,,,,Österreich,,,2018-11-26T11:44:03
+881,Engelbostel,,,,,http://d-nb.info/gnd/7601771-0,,,,,Niedersachsen,Deutschland,,,2018-11-26T11:54:31
+882,Asch,,,,,http://d-nb.info/gnd/4003190-1,,,,,,Tschechische Republik,,,2018-11-26T12:00:35
+883,Memmingen,,,,,http://d-nb.info/gnd/4038586-3,,,,,Bayern,Deutschland,,,2018-11-26T12:01:11
+884,Bergisch Gladbach,,,,,http://d-nb.info/gnd/4005657-0,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-26T12:03:16
+885,Göteborg,,,,,http://d-nb.info/gnd/4021453-9,,,,,,Schweden,,,2018-11-26T12:12:57
+886,Steinau an der Oder,,,,,http://d-nb.info/gnd/4105641-3,,,,,,Polen,,,2018-11-26T12:19:36
+887,St. Louis,,,,,,,,,,,,,,2018-11-26T12:22:33
+888,Evanston,,,,,,,,,,,USA,,,2018-11-26T12:26:23
+889,Wallhalben,,,,,http://d-nb.info/gnd/4108705-7,,,,,Rheinland-Pfalz,Deutschland,,,2018-11-26T13:42:55
+890,Bad Cannstatt i. Stuttgart,,,,,http://d-nb.info/gnd/4077993-2,,,,,Baden-Württemberg,Deutschland,,,2018-11-26T13:50:55
+891,Bergneustadt,,,,,http://d-nb.info/gnd/4005685-5,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-26T13:53:53
+892,Bad Urach,,,,,http://d-nb.info/gnd/4062073-6,,,,,Baden-Württemberg,Deutschland,,,2018-11-26T13:55:53
+893,Raiding,,,,,http://d-nb.info/gnd/4104840-4,,,,,,Österreich,,,2018-11-26T14:05:59
+894,Thessaloniki,,,,,http://d-nb.info/gnd/4051394-4,,,,,,Griechenland,,,2018-11-26T14:10:00
+895,Grieskirchen,,,,,http://d-nb.info/gnd/4093989-3,,,,,,Österreich,,,2018-11-26T14:20:23
+896,Buitenzorg (heute: Bogor),,,,,http://d-nb.info/gnd/110503-6,,,,,,Niederlande,,,2018-11-26T14:28:03
+897,Beekbergen,,,,,http://d-nb.info/gnd/4243359-9,,,,,,Niederlande,,,2018-11-26T14:29:29
+898,Leschwitz b. Görlitz,,,,,,,,,,,Deutschland,,,2018-11-26T14:33:32
+899,Ann Arbor,,,,,http://d-nb.info/gnd/4079792-2,,,,,,USA,,,2018-11-26T14:52:35
+900,Ravenscroft,,,,,,,,,,,Wales,,,2018-11-26T14:57:32
+901,Penrhyndeudraeth ,,,,,,,,,,,Wales,,,2018-11-26T14:57:55
+902,Dettingen an der Erms,,,,,http://d-nb.info/gnd/4011561-6,,,,,Baden-Württemberg,Deutschland,,,2018-11-26T15:11:09
+903,Grünberg (Landkreis Gießen),,,,,http://d-nb.info/gnd/4022283-4,,,,,Hessen,Deutschland,,,2018-11-26T15:18:19
+904,Brieg,,,,,http://d-nb.info/gnd/4008252-0,,,,,,Polen,,,2018-11-26T15:21:51
+905,Amstetten,,,,,,,,,,,,,,2018-11-26T15:25:07
+906,Ossa,,,,,,,,,,,,,,2018-11-26T15:28:20
+907,Raguhn,,,,,http://d-nb.info/gnd/4305315-4,,,,,Sachsen-Anhalt,Deutschland,,,2018-11-26T15:32:00
+908,Vichy,,,,,http://d-nb.info/gnd/4119419-6,,,,,,Frankreich,,,2018-11-26T15:35:30
+909,Znojmo,,,,,http://d-nb.info/gnd/4119250-3,,,,,,Tschechische Republik,,,2018-11-26T15:46:41
+910,Siegen,,,,,http://d-nb.info/gnd/4054883-1,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-26T15:51:18
+911,Malboro,,,,,http://d-nb.info/gnd/4361065-1,,,,,,USA,,,2018-11-26T15:51:57
+912,Wagna,,,,,http://d-nb.info/gnd/4286250-4,,,,,,Österreich,,,2018-11-26T15:54:17
+913,Vaterstetten,,,,,http://d-nb.info/gnd/4246287-3,,,,,Bayern,Deutschland,,,2018-11-26T15:56:29
+914,Leominster,,,,,http://d-nb.info/gnd/5060660-8,,,,,,USA,,,2018-11-26T16:01:33
+915,Guilford,,,,,http://d-nb.info/gnd/5054945-5,,,,,,USA,,,2018-11-26T16:02:14
+916,Adelebsen,,,,,http://d-nb.info/gnd/4253237-1,,,,,Niedersachsen,Deutschland,,,2018-11-26T16:15:53
+917,Veytaux,,,,,,,,,,,Schweiz,,,2018-11-26T16:20:48
+918,Brunn am Gebirge,,,,,http://d-nb.info/gnd/4420575-2,,,,,,Österreich,,,2018-11-26T16:38:50
+919,Herford,,,,,http://d-nb.info/gnd/4024481-7,,,,,Nordrhein-Westfalen,Deutschland,,,2018-11-26T16:52:31
+920,Buchs (Luzern),,,,,http://d-nb.info/gnd/4505706-0,,,,,,Schweiz,,,2018-11-26T17:05:07
+921,Vitznau,,,,,http://d-nb.info/gnd/4108319-2,,,,,,Schweiz,,,2018-11-26T17:05:53
+922,Fort Wayne,,,,,http://d-nb.info/gnd/4017974-6,,,,,,USA,,,2018-11-26T17:08:56
+923,Esseg,,,,,http://d-nb.info/gnd/1215714-4,,,,,,Ungarn,,,2018-11-26T17:14:20
+924,Geising,,,,,http://d-nb.info/gnd/4567748-7,,,,,Sachsen,Deutschland,,,2018-11-26T17:21:39
+925,Chocen,,,,,http://d-nb.info/gnd/4596589-4,,,,,,Tschechische Republik,,,2018-11-26T17:25:29
+926,"Lenox, Mass.",,,,,http://d-nb.info/gnd/4248097-8,,,,,,USA,,,2018-11-26T17:26:36
+927,Ribnica,,,,,http://d-nb.info/gnd/4509212-6,,,,,,Slowenien,,,2018-11-26T17:29:23
+928,Gornji Grad,,,,,http://d-nb.info/gnd/4295097-1,,,,,,Slowenien,,,2018-11-26T17:29:54
+929,"Santa Barbara, Calif.",,,,,http://d-nb.info/gnd/119167239,,,,,,USA,,,2018-11-26T17:38:59
+930,Groningen,,,,,http://d-nb.info/gnd/4094052-4,,,,,,Niederlande,,,2018-11-26T17:40:50
+931,Monthey,,,,,http://d-nb.info/gnd/4102174-5,,,,,,Schweiz,,,2018-11-26T17:51:01
+932,Langen,,,,,http://d-nb.info/gnd/4034498-8,,,,,Hessen,Deutschland,,,2018-11-26T17:54:12
+933,Zeitz,,,,,http://d-nb.info/gnd/4067525-7,,,,,Sachsen-Anhalt,Deutschland,,,2018-11-26T17:56:31
+934,Craiova,,,,,http://d-nb.info/gnd/4374818-1,,,,,,Rumänien,,,2018-11-26T18:04:40
+935,Deensen,,,,,http://d-nb.info/gnd/4656143-2,,,,,Niedersachsen,Deutschland,,,2018-11-26T18:10:01
+936,Istanbul,,,,,,,,,,,Türkei,,,2018-11-27T12:18:56
+937,Italien,,,,,,,,,,,Italien,,,2018-11-27T19:18:14
+938,Portsmouth,,,,,http://d-nb.info/gnd/4046835-5,,,,,,Großbritannien,,,2018-11-27T19:18:11
+939,Granada,,,,,http://d-nb.info/gnd/4021815-6,,,,,,Spanien,,,2018-12-04T09:57:10
+940,Hellerau,,,,,http://d-nb.info/gnd/4096190-4,,,,,Sachsen,Deutschland,,,2018-12-04T10:15:04
+941,Villejuif,,,,,http://d-nb.info/gnd/4264433-1,,,,,,Frankreich,,,2018-12-13T10:43:14
+942,Champaign,,,,,http://d-nb.info/gnd/4009730-4,,,,,Illinois,USA,,,2018-12-13T11:17:17
+943,Bryn Mawr,,,,,http://d-nb.info/gnd/4080556-6,,,,,,USA,,,2018-12-13T11:24:43
+944,Reichenau (Hirschberg im Riesengerbirge),,,,,http://d-nb.info/gnd/4669143-1,,,,,,Polen,,,2018-12-13T12:39:31
+945,Waltersdorf (Zittau),,,,,http://d-nb.info/gnd/4331212-3,,,,,Sachsen,Deutschland,,,2018-12-13T12:45:26
+946,Andisleben,,,,,,,,,,Thüringen,Deutschland,,,2018-12-13T12:47:56
+947,Amersfoort,,,,,http://d-nb.info/gnd/4079750-8,,,,,,Niederlande,,,2018-12-13T13:21:46
+948,North Cheam,,,,,,,,,,Surrey,England,,,2018-12-13T13:29:08
+949,Seehausen (Börde),,,,,,,,,,Sachsen-Anhalt,Deutschland,,,2018-12-13T15:56:16
+950,Immenstadt i. Allgäu,,,,,http://d-nb.info/gnd/4113996-3,,,,,Bayern,Deutschland,,,2018-12-13T15:56:49
+951,Berlin-Zehlendorf,,,,,http://d-nb.info/gnd/4069322-3,,,,,Berlin,Deutschland,,,2018-12-13T16:11:44
+952,Haar (Landkreis München),,,,,http://d-nb.info/gnd/4022683-9,,,,,Bayern,Deutschland,,,2018-12-19T10:47:52
+953,Großdubrau,,,,,http://d-nb.info/gnd/4570472-7,,,,,Sachsen,Deutschland,,,2018-12-20T14:43:46
+954,"Northfield, Minn.",,,,,http://d-nb.info/gnd/4229973-1,,,,,,USA,,,2018-12-20T16:24:43
+955,"Rockland, Me.",,,,,,,,,,,USA,,,2019-01-07T12:23:29
+956,"Belmont, Mass.",,,,,,,,,,,USA,,,2019-01-07T12:23:33
+957,Montbrison,,,,,http://d-nb.info/gnd/4404061-1,,,,,,Frankreich,,,2019-01-07T13:48:11
+958,Braila,,,,,http://d-nb.info/gnd/4457197-5,,,,,,Rumänien,,,2019-01-07T13:52:34
+959,Gr?dinari (Cara?-Severin),,,,,,,,,,Cara?-Severin,Rumänien,,,2019-01-22T15:47:35
+960,Bergerhof (Kreis Waldbröhl),,,,,,,,,,,,,,2019-01-24T12:48:47
+961,Alfter,,,,,http://d-nb.info/gnd/4132583-7,,,,,Nordrhein-Westfalen,Deutschland,,,2019-01-24T12:52:18
+962,Niederkrüchten,,,,,http://d-nb.info/gnd/4042195-8,,,,,Nordrhein-Westfalen,Deutschland,,,2019-01-24T12:55:53
+963,Hungen (Wetterau),,,,,,,,,,,,,,2019-01-24T13:07:35
+964,"Chapel Hill, NC",,,,,http://d-nb.info/gnd/4204631-2,,,,,,USA,,,2019-01-24T16:56:50
+965,Eichstätt,,,,,http://d-nb.info/gnd/4013725-9,,,,,Bayern,Deutschland,,,2019-02-04T10:27:08
+966,Samter,,,,,http://d-nb.info/gnd/5191866-3,,,,,,Deutschland,,,2019-02-04T11:37:34
+967,Bad Nauheim,,,,,http://d-nb.info/gnd/4041439-5,,,,,Hessen,Deutschland,,,2019-02-04T11:39:25
+968,Colorado,,,,,http://d-nb.info/gnd/4010406-0,,,,,,USA,,,2019-02-04T12:38:41
+970,"Stanford, Calif.",,,,,http://d-nb.info/gnd/4056932-9,,,,,,USA,,,2019-02-04T14:20:45
+971,Aarau,,,,,http://d-nb.info/gnd/4000018-7,,,,,,Schweiz,,,2019-02-04T17:01:24
+972,Hofwyl,,,,,http://d-nb.info/gnd/4401323-1,,,,,,Schweiz,,,2019-02-04T17:03:54
+973,Wesel,,,,,,,,,,,,,,2019-02-04T17:17:29
+974,Eresing,,,,,http://d-nb.info/gnd/4015216-9,,,,,Bayern,Deutschland,,,2019-02-11T10:20:33
+975,Altenburg,,,,,http://d-nb.info/gnd/4001409-5,,,,,Thüringen,Deutschland,,,2019-02-11T12:11:26
+976,Vaake,,,,,http://d-nb.info/gnd/2027844-5,,,,,Hessen,Deutschland,,,2019-02-11T12:34:13
+977,Schlüchtern,,,,,http://d-nb.info/gnd/4052768-2,,,,,Hessen,Deutschland,,,2019-02-11T12:38:51
+978,Tilsit,,,,,http://d-nb.info/gnd/4106491-4,,,,,,Russland,,,2019-02-28T17:49:13
+979,"Waltham, Mass.",,,,,http://d-nb.info/gnd/4118980-2,,,,,,USA,,,2019-02-28T18:53:33
+980,Berlstedt,,,,,http://d-nb.info/gnd/4005757-4,,,,,Thüringen,Deutschland,,,2019-03-07T14:02:54
+981,Wohlsborn,,,,,http://d-nb.info/gnd/1070674710,,,,,Thüringen,Deutschland,,,2019-03-07T14:10:11
+982,Wolfsburg-Fallersleben,,,,,http://d-nb.info/gnd/4092035-5,,,,,Niedersachsen,Deutschland,,,2019-03-07T14:20:10
+983,Höxter,,,,,http://d-nb.info/gnd/4025451-3,,,,,Nordrhein-Westfalen,Deutschland,,,2019-03-07T14:21:08
+984,Wetzlar,,,,,http://d-nb.info/gnd/4065878-8,,,,,Hessen,Deutschland,,,2019-03-07T15:18:10
+985,Brühl,,,,,,,,,,,,,,2019-03-07T16:53:29
+986,Maria Laach,,,,,http://d-nb.info/gnd/4037512-2,,,,,Rheinland-Pfalz,Deutschland,,,2019-03-11T11:54:56
+987,Gyula,,,,,http://d-nb.info/gnd/4223484-0,,,,,,Ungarn,,,2019-03-11T15:09:03
+988,"Columbus, Ohio",,,,,http://d-nb.info/gnd/4085305-6,,,,,,USA,,,2019-03-18T10:53:43
+989,Petrograd,,,,,http://d-nb.info/gnd/2034200-7,,,,,,Russland,,,2019-03-19T18:05:02
+990,Ramat Gan,,,,,http://d-nb.info/gnd/4196056-7,,,,,,Israel,,,2019-03-20T10:55:28
+991,Indiana,,,,,http://d-nb.info/gnd/4109219-3,,,,,,USA,,,2019-04-01T10:57:43
+992,Florida,,,,,http://d-nb.info/gnd/4017585-6,,,,,,USA,,,2019-04-01T11:00:45
+993,Freiburg (Zuordnung unklar),,,,,,,,,,,,,,2019-04-01T15:49:39
+994,Düsseldorf/Köln,,,,,,,,,,,Deutschland,,,2019-04-17T12:52:33
+995,Malmö,,,,,http://d-nb.info/gnd/4114951-8,,,,,,Schweden,,,2019-04-17T12:52:25
+996,Bedburg,,,,,http://d-nb.info/gnd/4005177-8,,,,,Nordrhein-Westfalen,Deutschland,,,2019-04-17T16:28:57
+997,Trondheim,,,,,http://d-nb.info/gnd/4070588-2,,,,,,Norwegen,,,2019-04-26T14:54:02
+998,"Davis, Calif.",,,,,http://d-nb.info/gnd/4377783-1,,,,,,USA,,,2019-04-26T15:11:59
+999,Opava (Troppau),,,,,http://d-nb.info/gnd/1028714-0,,,,,,Tschechische Republik,,,2019-04-30T10:45:08
+1000,Wattwil,,,,,http://d-nb.info/gnd/4128525-6,,,,,St. Gallen,Schweiz,,,2019-04-30T17:12:41
+1001,Neuruppin,,,,,http://d-nb.info/gnd/4041908-3,,,,,Brandenburg,Deutschland,,,2019-04-30T19:12:01
+1002,Hadamar,,,,,http://d-nb.info/gnd/4022758-3,,,,,Hessen,Deutschland,,,2019-05-08T10:26:14
+1003,Klecken,,,,,,,,,,Niedersachsen,Deutschland,,,2019-06-19T11:51:20
+1004,Neuhausen,,,,,http://d-nb.info/gnd/4353486-7,,,,,Baden-Württemberg,Deutschland,,,2019-06-19T13:40:07
+1005,Löwen,,,,,http://d-nb.info/gnd/4074300-7,,,,,,Belgien,,,2019-06-21T11:39:54
+1006,Pavia,,,,,http://d-nb.info/gnd/4044970-1,,,,,,Italien,,,2019-06-21T14:52:30
+1007,Landau in der Pfalz,,,,,http://d-nb.info/gnd/4034222-0,,,,,Rheinland-Pfalz,Deutschland,,,2019-07-10T12:19:09
+1008,Osnabrück,,,,,http://d-nb.info/gnd/4043974-4,,,,,Niedersachsen,Deutschland,,,2019-07-10T12:57:49
+1009,Trossingen,,,,,http://d-nb.info/gnd/4061022-6,,,,,Baden-Württemberg,Deutschland,,,2019-07-10T14:18:50
+1010,Nancy,,,,,http://d-nb.info/gnd/4041201-5,,,,,,Frankreich,,,2019-08-13T16:42:54
+1011,Salamanca,,,,,http://d-nb.info/gnd/4118281-9,,,,,,Spanien,,,2019-08-13T18:05:48
+1012,"Middletown, Conn.",,,,,http://d-nb.info/gnd/4027303-9,,,,,,USA,,,2019-08-21T17:42:59
+1013,Ludwigslust,,,,,http://d-nb.info/gnd/4111413-9,,,,,Meckelnburg-Vorpommern,Deutschland,,,2019-08-22T14:38:35
